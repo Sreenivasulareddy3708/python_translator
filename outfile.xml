@@ -1,0 +1,1096 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="undefined">Undefined</string>
+    <string name="Active">Active</string>
+    <string name="Deactive">Deactive</string>
+
+    <string name="MeterNo">Meter No</string>
+    <string name="consumption">Consumption</string>
+    <string name="Credit">Credit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error">Error</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="db_connection_failed">Db appears to be offline</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+    <string name="Organization">Organization</string>
+    <string name="Diameter">Diameter</string>
+    <string name="ValveStatus">Valve Status</string>
+    <string name="Version">Version</string>
+    <string name="Battery">Battery</string>
+    <string name="PenaltyWarning">Penalty Warning</string>
+    <string name="SendWorkOrders">Send Work Orders</string>
+    <string name="deneme">deneme</string>
+    <string name="ProductType">Product Type</string>
+    <string name="Index">Index</string>
+    <string name="Searchhere">Search here</string>
+    <string name="Products">Products</string>
+    <string name="Last24Hours">Last 24 Hours</string>
+    <string name="ActiveCollector">Active/Collector</string>
+    <string name="ActiveMetersTotalMeters">Active Meters/Total Meters</string>
+    <string name="Info">Info</string>
+    <string name="Top10MetersHighConsumptionList">Top 10 Meters  High Consumption List</string>
+    <string name="TotalReadedMeters">Total Readed Meters</string>
+    <string name="TotalFoundedLocation">Total Founded Location</string>
+    <string name="LastReadingDate">Last Reading Date</string>
+    <string name="TotalUnboundList">Total Unbound List</string>
+    <string name="UserName">User Name</string>
+    <string name="Password">Password</string>
+    <string name="Signin">Sign in</string>
+    <string name="Rememberme">Remember me</string>
+    <string name="ServiceUrl">Service Url</string>
+    <string name="Language">Language</string>
+    <string name="ModemType">Modem Type</string>
+    <string name="RfType">Rf Type</string>
+    <string name="HideHelp">Hide Help</string>
+    <string name="SaveSettings">Save Settings</string>
+    <string name="WorkOrderData">Work Order Data</string>
+    <string name="WorkOrderType">Work Order Type</string>
+    <string name="GetLocation">Get Location</string>
+    <string name="SetLocation">Set Location</string>
+    <string name="LastSeen">Last Seen</string>
+    <string name="DisplayMeterontheMap">Display  Meter on the Map</string>
+    <string name="Locateyourwatermeteronthemap">Locate your water meter on the map</string>
+    <string name="ProductDetail">Product Detail</string>
+    <string name="YoucanaccessrealProductinformationandsendWorkorder">You can access real Product information and send Workorder</string>
+    <string name="Report">Report</string>
+    <string name="Checkthetechnicalreports">Check the technical reports of Total Gateways,Total Products/Products with Closed Valves and High Consumption Reports.</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="ImportandExportdatatoExcelorBMS">Import and Export data to Excel or BMS</string>
+    <string name="Datasuccessfullyreceived">Data successfully received</string>
+    <string name="OperationFaild">Operation Faild</string>
+    <string name="CollectDataList">Collect Data List</string>
+    <string name="Date">Date</string>
+    <string name="ElectronicNo">ElectronicNo</string>
+    <string name="penalties">Penalties</string>
+    <string name="Read">Read</string>
+    <string name="isList">isList</string>
+    <string name="ProductListData">Product List Data</string>
+    <string name="SharefileProblem">Share file Problem</string>
+    <string name="ExcelImportFinish">Excel Import Finish</string>
+    <string name="SpecifyLocation">Specify Location</string>
+    <string name="Youcansethelocationofthelistedwatermeters">You can set the location of the listed water meters by clicking on them.</string>
+    <string name="ShowMeter">Show Meter</string>
+    <string name="IfClickthisButtonthemetersareappearsonMap">If Click this Button the meters are appears on Map</string>
+    <string name="ShowLocation">Show Location</string>
+    <string name="IfClickthisButtontheOfficerpositonappearsonMap">If Click this Button the Officer position appears on Map</string>
+    <string name="StartReading">Start Reading</string>
+    <string name="IfclickthisbuttonyouwillconnectCollectorandstartgetdatafromcollector">If click this button you will connect Collector and start get data from collector</string>
+    <string name="StopReading">Stop Reading</string>
+    <string name="Ifclickthisbuttonreadingoperationwillstop.AfterthatyoucancontinuewithclickingStartReadingbutton">If click this button reading operation will stop.After that you can continue with clicking Start Reading button</string>
+    <string name="TransactionMenu">Transaction Menu</string>
+    <string name="IfclickthisbuttonyoucanexportandimportdatafromserverorExcelFile">If click this button you can export and import data from server or Excel File</string>
+    <string name="Postlocationsuccessful">Post location successful</string>
+    <string name="TherearenoLocations">There are no Locations</string>
+    <string name="SendReadedProductSuccesfully">Send Readed Product Successfully</string>
+    <string name="CannotsendData">Can not send Data</string>
+    <string name="Comsumptionsummaryinlast5days">Comsumption summary in last 5 days</string>
+    <string name="Deletesuccessfully">Delete successfully</string>
+    <string name="ChooseFile">Choose File</string>
+    <string name="FileImporterProblem">File Importer Problem</string>
+    <string name="Youdidntselectexcelfile">You didn\'t select excel file</string>
+    <string name="Incorrectusernameorpassword">Incorrect username or password</string>
+    <string name="ServiceisnotWorking">Service is not Working</string>
+    <string name="PleasecheckSericeUrlfromSettingsandinternetconnection">Please check Service Url from Settings and internet connection</string>
+    <string name="PleaseturnonWifi">Please turn on Wifi</string>
+    <string name="SaveSettingsSuccesfully">Save Settings Successfully</string>
+    <string name="SaveSettingsError">Save Settings Error</string>
+    <string name="Serviceurlisnotcorrect">Service url is not correct</string>
+    <string name="PleaseSelectWorkOrder">Please Select Work Order</string>
+    <string name="WorkOrderSentSuccesfully">Work Order Sent Successfully</string>
+    <string name="WorkOrderSentError">Work Order Sent Error</string>
+    <string name="Getlocationsuccessfully">Get location successfully</string>
+    <string name="Getlocationfaild">Get location faild</string>
+    <string name="Login">Login</string>
+    <string name="Setting">Setting</string>
+    <string name="LogOut">Log Out</string>
+    <string name="ProductList">Product List</string>
+    <string name="ExportLocationtoServer">Export Location to Server</string>
+    <string name="ImportLocationfromExcel">Import Location from Excel</string>
+    <string name="ImportDatafromServer">Import Data from Server</string>
+    <string name="ExportDatatoServer">Export Data to Server</string>
+    <string name="ExportDatatoExcel">Export Data to Excel</string>
+    <string name="DeleteReadedData">Delete Readed Data</string>
+    <string name="DeleteAllData">Delete All Data</string>
+    <string name="DeleteUnBoundData">Delete UnBound Data</string>
+    <string name="GetDataFrom">Get Data From</string>
+    <string name="Youwillgettotal">You will get total</string>
+    <string name="Confirm">Confirm</string>
+    <string name="therearenodata">There are no data</string>
+    <string name="getlocationsuccesfully">Get Location Successfully</string>
+    <string name="ProduceProcess">Produce Process</string>
+    <string name="Produce">Produce</string>
+    <string name="title_activity_produce">ProduceActivity</string>
+    <string name="TouchUp">Touch Up</string>
+    <string name="Current">Current</string>
+    <string name="EyeControl">Eye Control</string>
+    <string name="tab_text_partino_serino_eslesme">Pair</string>
+    <string name="Calibration">Calibration</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="PartiNo">Parti No</string>
+    <string name="SeriNo">Seri No</string>
+    <string name="title_activity_productionn_up">Production Slip</string>
+    <string name="title_activity_saved_reads" translatable="false">Saved Reads</string>
+
+
+    <string name="title_activity_produce_page_access_setting">ProducePageAccessSetting</string>
+
+
+    <string name="page_settings">Page Settings</string>
+
+
+    <string name="Save">Save</string>
+    <string name="ProduceSetting">Settings</string>
+    <string name="TuningType">Tuning Type</string>
+    <string name="Delete">Delete</string>
+    <string name="WorkOrderStatus">Work Order Status</string>
+    <string name="WorkOrderDeleteSuccessfully">: Work Order Successfully Deleted</string>
+    <string name="CannotDeletWorkOrder">CannotDeletWorkOrder</string>
+    <string name="StationAccess">Station Access</string>
+    <string name="Mapping">Mapping</string>
+    <string name="SelectStation">Select station</string>
+    <string name="Warning">Warning</string>
+    <string name="BeginProduce">Start Produce</string>
+    <string name="OrderName">Order Name</string>
+    <string name="MeterType">Meter Type</string>
+    <string name="Cancel">Cancel</string>
+    <string name="End">End</string>
+    <string name="Starting">Starting</string>
+    <string name="Status">Status</string>
+    <string name="Waiting">Waiting</string>
+    <string name="Started">Started</string>
+    <string name="Delayed">Delayed</string>
+    <string name="Completed">Completed</string>
+    <string name="Electric">Electric</string>
+    <string name="Water">Water</string>
+    <string name="Gas">Gas</string>
+    <string name="SerialStart">Serial Start</string>
+    <string name="SerialFinish">Serial Finish</string>
+    <string name="Sort">Sort</string>
+    <string name="SortByCreatedDateAsc">Sort By Created Date Ascending</string>
+    <string name="SortByCreatedDateDesc">Sort By Created Date Descending</string>
+    <string name="SortByOrderArrivalDateAsc">Sort By Order Arrival Date Ascending</string>
+    <string name="SortByOrderArrivalDateDesc">Sort By Order Arrival Date Descending</string>
+    <string name="CreatedDate">Created Date</string>
+    <string name="OrderArrivalDate">Order Date</string>
+    <string name="WaterMeter">Water Meter</string>
+    <string name="ElectricMeter">Electric Meter</string>
+    <string name="NaturalGasMeter">Natural Gas Meter</string>
+    <string name="Collector">Collector</string>
+    <string name="Gateway">Gateway</string>
+    <string name="Module">Module</string>
+    <string name="None">None</string>
+    <string name="ThereIsNoMoreRecord">There is no more record</string>
+    <string name="title_activity_haloooo">Haloooo</string>
+    <string name="title_activity_activetion">Activetion</string>
+    <string name="ProductNotPassedFromTouchUp">Product did not pass from \'TouchUp\' station</string>
+    <string name="ProductNotPassedFromCurrent">Product did not pass from \'Current\' station</string>
+    <string name="ProductNotPassedFromEyeControl">Product did not pass from \'EyeControl\' station</string>
+    <string name="ProductNotPassedFromMapping">Product did not pass from \'Mapping\' station</string>
+    <string name="gprs_test">Gprs Test</string>
+    <string name="BatterylowOrHardwareProblem">Battery Low or Hardware Problem</string>
+    <string name="SimcardNotDetected">Simcard not detected</string>
+    <string name="ImeiReadProblem">Can not Read IMEI</string>
+    <string name="SimCardCanNotRegister">Sim Card Can Not Register</string>
+    <string name="GsmOperatorBussy">Gsm Operator bussy</string>
+    <string name="CanNotSendWorkorder">Can not send work order because Valve/Meter has penalty</string>
+    <string name="CardOperations">Card Operations</string>
+    <string name="connectCardReader">Kart Okuyucuya Bağlan</string>
+    <string name="disconnetCardReader">Devre Dışı Bırak</string>
+    <string name="loadCredit">Kredi Yükle</string>
+    <string name="cardChanged">Kart Değiştirilmiş</string>
+    <string name="loadCreditSuccessfully">Kredi başarıyla yüklendi</string>
+    <string name="loadCreditFailed">Kredi Yüklemede Hata Oluştu</string>
+    <string name="watingCredit">Waiting</string>
+    <string name="limiterror">"Yüklenmek istenen Kredi Limiti çok yüksek "</string>
+    <string name="customerno">Abone No</string>
+    <string name="maincredit">Main Credit</string>
+    <string name="checkCard">Lütfen Kartınızın Kart okuyucu üzerinde olduğundan emin olunuz</string>
+    <string name="pleaseConnectCardReader">Lütfen Kart okuyucusunu bağlayınız</string>
+    <string name="firstreadcard">Lütfen önce Kartı Okuyunuz</string>
+    <string name="readCard">Kart Oku</string>
+    <string name="cardReader">Kart Okuyucu</string>
+    <string name="currentCardCredit">Karttaki Toplam Kredi</string>
+    <string name="clear">Ekranı Temizle</string>
+    <string name="loadType">Satış Tipi</string>
+    <string name="currentCardReserveCredit">Karttaki Yedek Kredi</string>
+    <string name="newVersion">New Version Available!</string>
+    <string name="newVersionMessage">Please, update the app to latest version to have newest features.</string>
+    <string name="CardID">Card Number</string>
+    <string name="stsoperations">STS Operations</string>
+    <string name="test_user">Test User</string>
+    <string name="OperationComplate">Operation Complate</string>
+    <string name="accessNumber">Access Number</string>
+    <string name="ShowProductionUps">ShowPropductionUps</string>
+    <string name="CancelDispatch">CancelDispatch</string>
+    <string name="DispatchAgain" translatable="false">DispatchAgain</string>
+    <string name="Successfull">Successfull</string>
+    <string name="Customer">Customer</string>
+    <string name="City" translatable="false">City</string>
+    <string name="Select">Select</string>
+    <string name="Description">Description</string>
+    <string name="Town">Town</string>
+    <string name="Dispatch">Dispatch</string>
+    <string name="QualityForms">Quality Forms</string>
+    <string name="title_activity_dispatcch">DispatcchActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_quality">Quality Control Forms</string>
+    <string name="ElectronicMeterInstallationProcessControlForm">Electronic Meter Installation Process Control Form</string>
+    <string name="ScrewPartEnterQualityControlForm">Screw Part Enter Quality Control Form</string>
+    <string name="ManualTypesettingProcessControlForm">Manual Typesetting Process Control Form</string>
+    <string name="InjectionProcessControlForm">Injection Process Control Form</string>
+    <string name="ElectricityMeterLastControlForm">Electricity Meter Last Control Form</string>
+    <string name="SmdTypesettingProcessControlForm">Smd Typesetting Process Control Form</string>
+    <string name="TerminalPartInputProcessControlForm">Terminal Part Input Process Control Form</string>
+    <string name="title_activity_deneme">deneme</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_tabbed_example">TabbedExample</string>
+    <string name="GeneralInformations">General Informations</string>
+    <string name="Alerts">Alerts</string>
+    <string name="Tariffs">Tariffs</string>
+    <string name="General">General</string>
+    <string name="FieldOperations">Field Operations</string>
+    <string name="title_activity_field_operation">FieldOperationActivity</string>
+    <string name="SelectCity">Select City</string>
+    <string name="SelectTown">Select Town</string>
+    <string name="SelectNeighborhood">Select Neighborhood</string>
+    <string name="District">District</string>
+    <string name="SelectDistrict">Select District</string>
+    <string name="Street">Street</string>
+    <string name="SelectStreet">Select Street</string>
+    <string name="AllStreet">All Street</string>
+    <string name="AllDistrict">All District</string>
+    <string name="CityNotFound">City not found</string>
+    <string name="TownNotFound">Town Not Found</string>
+    <string name="DistrictNotFound">District Not Found</string>
+    <string name="StreetNotFound">Street Not Found</string>
+    <string name="Address">Address</string>
+    <string name="Search">Search</string>
+    <string name="title_activity_technical_service">MainActivity</string>
+    <string name="large_text"> field operation fragment </string>
+    <string name="AboneNo">Abone No</string>
+    <string name="DeviceNo">Device No</string>
+    <string name="PleaseSelectTown">Please Select Town</string>
+    <string name="PleaseSelectCity">Please Select City</string>
+    <string name="PleaseSelectDistrict">Please Select District</string>
+    <string name="SelectOperationType">Operation Type</string>
+    <string name="SearchAbone">Search Abone</string>
+    <string name="Jobs">Jobs</string>
+    <string name="SearchSerialNo">Search Serial No</string>
+    <string name="SearchDeviceNo">Search Device No</string>
+    <string name="AboneNoCanNotBeEmpty">Abone No Can Not Be Empty</string>
+    <string name="SeriNoCanNotBeEmpty">Seri No Can Not Be Empty</string>
+    <string name="AddOperation">Add Operation</string>
+    <string name="undefinedOperationType">Undefined Operation Type</string>
+    <string name="undefinedOrderType">Undefined Order Type</string>
+    <string name="undefinedOrderStatus">Undefined Order Status</string>
+    <string name="RemainingLoan">Remaining Loan</string>
+    <string name="UsedLoan">Used Loan</string>
+    <string name="RemainingCredit">Remaining Credit</string>
+    <string name="UsedCredit">Used Credit</string>
+    <string name="M3Consumption">M3 Consumption</string>
+    <string name="MechanicalIndex">Mechanical Index</string>
+    <string name="DebtCredit">Debt Credit</string>
+    <string name="FaultyMeterInfo">Meter Info</string>
+    <string name="CardCredit">Card Credit</string>
+    <string name="ReserveCard">Reserve Card</string>
+    <string name="FaultyMeterPhoto">Faulty Meter Photo</string>
+    <string name="AddPhoto">Add Photo</string>
+    <string name="NewMeterInfo">New Meter Info</string>
+    <string name="NewMeterSerialNo">New Meter Serial No</string>
+    <string name="NewMeterAboneNo">New Meter Abone No</string>
+    <string name="AdditionalNotice">Additional Notice</string>
+    <string name="DevicePlaceNotice">Device Place Notice</string>
+    <string name="MeterDate">Meter Date</string>
+    <string name="SavedSuccessfully">Saved Successfully</string>
+    <string name="NewMeterDeviceNo">New Meter Device No</string>
+    <string name="NewMeterAdvance">New Meter Advance</string>
+    <string name="ClearPhoto">Clear Photo</string>
+    <string name="ImageCountCanNotBeLongerThanThree">Image Count Can Not Be Longer Than Three</string>
+    <string name="BackupCreditOnCard">Backup Credit On Card</string>
+    <string name="Unknown">Unknown</string>
+    <string name="UnAssigned">UnAssigned</string>
+    <string name="AssignedNotStarted">AssignedNotStarted</string>
+    <string name="AssignedStarted">AssignedStarted</string>
+    <string name="AssignedCompleted">AssignedCompleted</string>
+    <string name="AssignedRedirected">AssignedRedirected</string>
+    <string name="AssignedRejected">AssignedRejected</string>
+    <string name="Cancelled">Cancelled</string>
+    <string name="Feedback">Feedback</string>
+    <string name="AddressMismatch">AddressMismatch</string>
+    <string name="WaterMeterLocationLocked">WaterMeterLocationLocked</string>
+    <string name="ConsumerRejected">ConsumerRejected</string>
+    <string name="BuildingCollapsed">BuildingCollapsed</string>
+    <string name="ConvertedToRepairAndMaintanceService">ConvertedToRepairAndMaintanceService</string>
+    <string name="ConsumerNotAtHome">ConsumerNotAtHome</string>
+    <string name="WaterMeterNotFound">WaterMeterNotFound</string>
+    <string name="AddressNotFound">AddressNotFound</string>
+    <string name="InstallationService">InstallationService</string>
+    <string name="FieldTechnicalService">FieldTechnicalService</string>
+    <string name="RepairAndMaintanceService">RepairAndMaintanceService</string>
+    <string name="PeriodicalMaintanceService">PeriodicalMaintanceService</string>
+    <string name="FaultyWaterMeterService">FaultyWaterMeterService</string>
+    <string name="WaterMeterRemovalService">WaterMeterRemovalService</string>
+    <string name="WaterMeterResetService">WaterMeterResetService</string>
+    <string name="WithinWarrantyService">WithinWarrantyService</string>
+    <string name="Other">Other</string>
+    <string name="PleaseFillMeterNoOrAboneNo">Please Fill MeterNo or Abone No</string>
+    <string name="FieldOperationAlreadyExists">Field Operation Already Exists</string>
+    <string name="MeterNoCanNotBeEmpty">Meter No Can Not Be Empty</string>
+    <string name="AssignedOperations">Assigned Operations</string>
+    <string name="AboneNoNotExists">Abone No Not Exists</string>
+    <string name="MeterInfo">Meter Info</string>
+    <string name="NewMeterNo">New Meter No</string>
+    <string name="ClearFilter">Clear Filter</string>
+    <string name="JobsAddress">Jobs (Address)</string>
+    <string name="JobsAbone">Jobs(Abone)</string>
+    <string name="JobsDevice">Jobs(Device)</string>
+    <string name="JobsMeterNo">Jobs (MeterNo)</string>
+    <string name="FiltersClearedSuccessfully">Filters are cleared successfully</string>
+    <string name="title_activity_zebra_print">ZebraPrintActivity</string>
+    <string name="menu_clear_active">Clear Active Printer</string>
+    <string name="Print">Print</string>
+    <string name="ConnectedPrinter">Connected Printer</string>
+    <string name="PrinterConnected">Printer Connected</string>
+    <string name="NoPrintersFound">No Printers Found</string>
+    <string name="DiscoveryFinished">Discovery Finished</string>
+    <string name="PrintersFound">PrintersFound</string>
+    <string name="ChooseAPrinterFromTheList">Choose a printer from the list</string>
+    <string name="SearchingForDefaultPrinter">Searching for default printer</string>
+    <string name="ReconnectingToPrinter">Reconnecting to printer</string>
+    <string name="SearchingForBluetoothPrinters">Searching for bluetooth printers</string>
+    <string name="SearchingForPrintersAroundYou">Searching for printers around you</string>
+    <string name="ErrorDuringDiscovery">Error during discovery</string>
+    <string name="ChoosePrinter">Choose Printer</string>
+    <string name="PrinterConnecting">Printer Connecting</string>
+    <string name="BluetoothDevicesFound">Bluetooth devices found</string>
+    <string name="NoDevicesFound">No devices found</string>
+    <string name="Error">Error</string>
+    <string name="Printing">Printing</string>
+    <string name="Pending">Pending</string>
+    <string name="ScanAgain">Scan Again</string>
+    <string name="SeeAdvancedOptions">See advanced options</string>
+    <string name="SelectPrinters">Select Printers</string>
+    <string name="RefreshPrinters">Refresh Printers</string>
+    <string name="SealNo">Seal No</string>
+    <string name="WaterMeterPlaceNotAvailable">Water Meter Place Not Available</string>
+    <string name="FieldOperationServiceStarted"> Field Operation Service Started</string>
+    <string name="FieldOperationDataEqualizeServiceActivated"> Field Operation Data Equalize Service Activated</string>
+    <string name="PostedSuccessfully">Posted successfully</string>
+    <string name="ConsumptionCanNotBeEmpty">Consumption can not be empty</string>
+    <string name="SealNoCanNotBeEmpty">Seal no can not be empty</string>
+    <string name="SealNoCanNotBeControlled">Seal No can not be controlled</string>
+    <string name="DuplicatedSealNo">Duplicated Seal No</string>
+    <string name="SealNoAlreadyExist">Seal No Already Exist</string>
+    <string name="NewSealNo">New Seal No</string>
+    <string name="History">History</string>
+    <string name="ProcessType">Process Type</string>
+    <string name="WaterMeterChangedWithInfo">Water Meter Changed With Info</string>
+    <string name="WaterMeterChanged">Water Meter Changed</string>
+    <string name="SparePartChanged">Spare Part Changed</string>
+    <string name="OnSiteService">On Site Service</string>
+    <string name="NoActionTaken">No Action Taken</string>
+    <string name="DetectedFaults">Detected Faults</string>
+    <string name="Debt">Debt</string>
+    <string name="Penalty1">Penalty1</string>
+    <string name="Penalty2">Penalty2</string>
+    <string name="Penalty3">Penalty3</string>
+    <string name="Penalty4">Penalty4</string>
+    <string name="ScreenOK">ScreenOK</string>
+    <string name="ScreenFaint">ScreenFaint</string>
+    <string name="OverConsumption">OverConsumption</string>
+    <string name="Invalid">Invalid</string>
+    <string name="NoDisplay">NoDisplay</string>
+    <string name="DamagedDisplay">DamagedDisplay</string>
+    <string name="IllegalUsage">IllegalUsage</string>
+    <string name="CardError">CardError</string>
+    <string name="NotLoadCredit">NotLoadCredit</string>
+    <string name="BrokenSeal">BrokenSeal</string>
+    <string name="LowBattery">LowBattery</string>
+    <string name="DeadBattery">DeadBattery</string>
+    <string name="StrainerClipBroken">StrainerClipBroken</string>
+    <string name="FiitngClipBroken">FiitngClipBroken</string>
+    <string name="MeterInformationConfused">MeterInformationConfused</string>
+    <string name="MeterInterfering">MeterInterfering</string>
+    <string name="Leakage">Leakage</string>
+    <string name="SoundOnMeter">SoundOnMeter</string>
+    <string name="Service">Service</string>
+    <string name="Magnetic">Magnetic</string>
+    <string name="ValveOpenNoWater">ValveOpenNoWater</string>
+    <string name="ValveCloseNoWater">ValveCloseNoWater</string>
+    <string name="ValveOpenCloseconstantly">ValveOpenCloseconstantly</string>
+    <string name="CardNotInserted">CardNotInserted</string>
+    <string name="MeterNotCount">MeterNotCount</string>
+    <string name="ScreenConstant">ScreenConstant</string>
+    <string name="Duplicate">Duplicate</string>
+    <string name="MeterBurst">MeterBurst</string>
+    <string name="NotGetOutConrol">NotGetOutConrol</string>
+    <string name="InstallationBurst">InstallationBurst</string>
+    <string name="ElectronicIndexNotCount">ElectronicIndexNotCount</string>
+    <string name="MechanicIndexNotCount">MechanicIndexNotCount</string>
+    <string name="MeterFrozen">MeterFrozen</string>
+    <string name="WaterInDrums">WaterInDrums</string>
+    <string name="ResetMeter">ResetMeter</string>
+    <string name="MeterDisassembly">MeterDisassembly</string>
+    <string name="MeterNormal">MeterNormal</string>
+    <string name="PulseError">PulseError</string>
+    <string name="WaterNotUse">WaterNotUse</string>
+    <string name="MeterControl">MeterControl</string>
+    <string name="FittingError">FittingError</string>
+    <string name="FrequencyError">FrequencyError</string>
+    <string name="Difference">Difference</string>
+    <string name="ElectronicInfoFault">ElectronicInfoFault</string>
+    <string name="MeterDamaged">MeterDamaged</string>
+    <string name="CardReaderFault">CardReaderFault</string>
+    <string name="NewInstallation">NewInstallation</string>
+    <string name="MeterChanged">Meter Changed</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="MeterTypeCanNotBeEmpty">Meter Type can not be empty</string>
+    <string name="NewMeterType">Meter Type</string>
+
+
+    <string name="please_turn_on_location_service">Please turn on location service</string>
+    <string name="please_fill_in_the_required_fields">Please Fill In The Required Fields</string>
+    <string name="form_registration">You must select at least one checkout process as \'SUCCESS\' or \'FAIL\' for registration.</string>
+    <string name="title_optic">Optic</string>
+    <string name="Please_Fill_in_the_Card_Model_Field">Please Fill in the Card Model Field</string>
+    <string name="card_model">Cart Model</string>
+    <string name="meter_found">Meters Are Found.</string>
+    <string name="list_meters">List</string>
+    <string name="meter_list_success">Meters successfully listed.</string>
+    <string name="meter_not_found">No Meters Found!</string>
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+    <string name="CleanDBWarning">Do you approve the reset of the datas?</string>
+    <string name="field_readings">Field Readings</string>
+    <string name="close_valve">Close Valve</string>
+    <string name="open_valve">Open Valve</string>
+    <string name="valve_close_and_lock">Valve Close and Lock</string>
+    <string name="valve_open_and_lock">Valve Open and Lock</string>
+    <string name="clear_penalty">Clear Penalty</string>
+    <string name="daily_log">Daily Log</string>
+    <string name="hourly_log">Hourly Log</string>
+    <string name="public_holiday_check_active">Public Holiday Check Active</string>
+    <string name="public_holiday_check_passive">Public Holiday Check Passive</string>
+    <string name="leakage_valve_close_active">Leakage Valve Close Active</string>
+    <string name="leakage_valve_close_passive">Leakage Valve Close Passive</string>
+    <string name="overtime_active">Overtime Active</string>
+    <string name="overtime_passive">Overtime Passive</string>
+    <string name="NoThanks">No, Thanks</string>
+    <string name="succcessfuly_exported">Successfully Exported to</string>
+    <string name="created">Created</string>
+    <string name="received_from_wifi_modem">Received modem</string>
+    <string name="Send">Send</string>
+    <string name="MeterInformation">Meter Information</string>
+    <string name="VoltageCurrentFrequency">Voltage Current Frequency</string>
+    <string name="Energy">Energy</string>
+
+
+    <!--    elektric opotic strings-->
+
+    <string name="app_name">Baylan Mobile</string>
+    <string name="app_sw_version" translatable="false">0.5.1</string>
+    <string name="app_hw_version" translatable="false">1.2.0</string>
+    <!-- Date Util -->
+    <string name="date_util_term_less">less than</string>
+    <string name="date_util_term_a">a</string>
+    <string name="date_util_term_an">an</string>
+
+    <string name="date_util_unit_second">second</string>
+    <string name="date_util_unit_seconds">seconds</string>
+    <string name="date_util_unit_minute">minute</string>
+    <string name="date_util_unit_minutes">minutes</string>
+    <string name="date_util_unit_hour">hour</string>
+    <string name="date_util_unit_hours">hours</string>
+    <string name="date_util_unit_day">day</string>
+    <string name="date_util_unit_days">days</string>
+    <string name="date_util_unit_month">month</string>
+    <string name="date_util_unit_months">months</string>
+    <string name="date_util_unit_year">year</string>
+    <string name="date_util_unit_years">years</string>
+
+    <string name="date_util_unit_second_abbr">sec</string>
+    <string name="date_util_unit_seconds_abbr">secs</string>
+    <string name="date_util_unit_minute_abbr">min</string>
+    <string name="date_util_unit_minutes_abbr">mins</string>
+    <string name="date_util_unit_hours_abbr">h</string>
+    <string name="date_util_unit_days_abbr">d</string>
+    <string name="date_util_unit_months_abbr">m</string>
+    <string name="date_util_unit_years_abbr">y</string>
+
+    <string name="date_util_prefix_lt">less than a</string>
+    <string name="date_util_prefix_about">about</string>
+    <string name="date_util_prefix_over">over</string>
+    <string name="date_util_prefix_almost">almost</string>
+
+    <string name="date_util_suffix">ago</string>
+
+    <string name="CONTACT_EMAIL" translatable="false">info@baylanelektrik.com</string>
+    <string name="nav_header_desc">Main Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_info_email" translatable="false">info@baylanelektrik.com</string>
+
+    <string name="APP_CRASH_TOAST_TEXT">Oops ! Baylan Mobile crashed, but a report has been sent to my developer to help fix the issue !</string>
+    <string name="APP_CRASH_DIALOG_TEXT">An unexpected error occurred forcing the application to stop. Please help us fix this by sending us error data, all you have to do is click OK.</string>
+    <string name="APP_CRASH_DIALOG_COMMENT_PROMPT">You might add your comments about the problem below:</string>
+    <string name="APP_CRASH_DIALOG_OK_TOAST">Thank you !</string>
+    <string name="APP_CRASH_DIALOG_TITLE">Baylan Mobile has crashed..</string>
+
+    <string name="LOREM_IPSUM_PLACEHOLDER" translatable="false">
+    <![CDATA[
+        <p>
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        ]]>
+    </string>
+
+    <string-array name="baud_rate_1">
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>921600</item>
+    </string-array>
+
+    <string-array name="baud_rate_2">
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+    </string-array>
+
+    <string-array name="stop_bits">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="data_bits">
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="parity">
+        <item>None</item>
+        <item>Odd</item>
+        <item>Even</item>
+        <item>Mak</item>
+        <item>Sce</item>
+    </string-array>
+
+    <string-array name="flow_control">
+        <item>None</item>
+        <item>CTS/RTS</item>
+        <item>DTR/DSR</item>
+        <item>XOFF/XON</item>
+    </string-array>
+
+    <string-array name="port_list_1">
+        <item>0</item>
+    </string-array>
+
+
+    <string-array name="port_list_2">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="port_list_3">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="port_list_4">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="port_list_5">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="port_list_6">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="port_list_7">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="port_list_8">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <string-array name="nav_bar_alternates">
+        <item>#EC93291E</item>
+        <item>#ED93291E</item>
+    </string-array>
+
+    <string name="SHARE">Share</string>
+    <string name="DISMISS">Dismiss</string>
+    <string name="DEVICE_NOT_CONNECTED_CHECK_CONNECTION">Cannot find the device. Please check the connection cable</string>
+    <string name="PORT_NOT_CONFIGURED">Port settings are empty.</string>
+    <string name="INCORRECT_HEX_DATA">Incorrect Hex Data</string>
+    <string name="METER_QUERY_STRING_ERROR">Unrecognized query response. Reading cannot be initialized</string>
+
+
+    <string name="about">About</string>
+    <string name="communication_logs">Communication Logs</string>
+    <string name="connect">Connect</string>
+    <string name="connection_settings">Connection Settings</string>
+    <string name="cover_openings">Cover Openings</string>
+    <string name="current_energy_grup">Current Energy Import (kWh)</string>
+    <string name="current_voltage_frequency">Current | Voltage | Frequency</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="empty">Empty</string>
+    <string name="energy">Energy</string>
+    <string name="exit">Exit</string>
+    <string name="full">Full</string>
+    <string name="general">General</string>
+    <string name="help">Help</string>
+    <string name="information">Information</string>
+    <string name="is_connected">is connected</string>
+    <string name="is_disconnected">is disconnected</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="phase_interrupts">Phase Interrupts</string>
+    <string name="port_could_not_close">Port could not close</string>
+    <string name="port_could_not_open">Port could not open</string>
+    <string name="port_is_allready_open">Port is allready open</string>
+    <string name="port_unselected">Port unselected</string>
+    <string name="long_read">Long Read</string>
+    <string name="r_phase">R Phase</string>
+    <string name="saturday_tariff">Saturday Tariff</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="settings">Settings</string>
+    <string name="sunday_tariff">Sunday Tariff</string>
+    <string name="s_phase">S Phase</string>
+    <string name="tariffs">Tariffs</string>
+    <string name="t_phase">T Phase</string>
+    <string name="weekdays_tariff">Weekdays Tariff</string>
+    <string name="xml_read_error">Xml read error</string>
+    <string name="xml_write_error">Xml write error</string>
+    <string name="are_you_sure_to_exit">Are you sure to exit?</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="battery_status">Battery Status</string>
+    <string name="calibration_date">Calibration Date</string>
+    <string name="day_of_week">Day Of Week</string>
+    <string name="demand_period">Demand Period</string>
+    <string name="meter_date">Meter Date</string>
+    <string name="meter_hour">Meter Hour</string>
+    <string name="meter_id">Meter ID</string>
+    <string name="production_date">Production Date</string>
+    <string name="current">Current</string>
+    <string name="frequency">Frequency</string>
+    <string name="tariff_1">Tariff 1</string>
+    <string name="tariff_2">Tariff 2</string>
+    <string name="tariff_3">Tariff 3</string>
+    <string name="tariff_4">Tariff 4</string>
+    <string name="total_tariff">Total Tariff</string>
+    <string name="voltage">Voltage</string>
+    <string name="current_energy">Current Energy</string>
+    <string name="previous_month_01">Previous Month</string>
+    <string name="previous_month_02">2 Previous Month</string>
+    <string name="previous_month_03">3 Previous Month</string>
+    <string name="previous_month_04">4 Previous Month</string>
+    <string name="previous_month_05">5 Previous Month</string>
+    <string name="previous_month_06">6 Previous Month</string>
+    <string name="previous_month_07">7 Previous Month</string>
+    <string name="previous_month_08">8 Previous Month</string>
+    <string name="previous_month_09">9 Previous Month</string>
+    <string name="previous_month_10">10 Previous Month</string>
+    <string name="previous_month_11">11 Previous Month</string>
+    <string name="previous_month_12">12 Previous Month</string>
+    <string name="current_demand">Max Demand</string>
+    <string name="demand_date">Max Demand Date</string>
+    <string name="end_date">End Date</string>
+    <string name="last_opening_date">Last Opening Date</string>
+    <string name="main_cover_opening">Main Cover Opening</string>
+    <string name="number">Number</string>
+    <string name="start_date">Start Date</string>
+    <string name="terminal_cover_opening">Terminal Cover Opening</string>
+    <string name="baudrate">BaudRate</string>
+    <string name="cancel">Cancel</string>
+    <string name="connection_type">Connection Type</string>
+    <string name="ok">OK</string>
+    <string name="assembly_company">Baylan Water Meters</string>
+    <string name="assembly_copyright">Copyright ©  2018</string>
+    <string name="assembly_description">This software program allows you to read Baylan Electronic Electricity Meters datas.</string>
+    <string name="assembly_product">Baylan Electricity User Interface</string>
+    <string name="version">Version</string>
+    <string name="firmware_version">Firmware Version</string>
+    <string name="phase_interrupt_number_r">R Phase Interrupt Number </string>
+    <string name="tariff_information_change_date">Tariff Information Change Date</string>
+    <string name="clean">Clean</string>
+    <string name="copy">Copy</string>
+    <string name="active_energy">Active Energy Import</string>
+    <string name="active_energy_kwh">Active Energy Import (kWh)</string>
+    <string name="reactive_energy">Reactive Energy</string>
+    <string name="reactive_energy_kvarh">Reactive Energy (kVArh)</string>
+    <string name="capacitive">Capacitive</string>
+    <string name="inductive">Inductive</string>
+    <string name="phase_interrupt_number_rst">RST Phase Interrupt Number</string>
+    <string name="phase_interrupt_number_s">S Phase Interrupt Number</string>
+    <string name="phase_interrupt_number_t">T Phase Interrupt Number</string>
+    <string name="phase_interrupt_number">Phase Interrupt Number</string>
+    <string name="long_">Long</string>
+    <string name="phase_interrupt_r">R Phase Interrupts</string>
+    <string name="phase_interrupt_rst">RST Phase Interrupts</string>
+    <string name="phase_interrupt_s">S Phase Interrupts</string>
+    <string name="phase_interrupt_t">T Phase Interrupts</string>
+    <string name="short_">Short</string>
+    <string name="current_errors">Current Errors</string>
+    <string name="voltage_errors">Voltage Errors</string>
+    <string name="warnings">Warnings</string>
+    <string name="magnetic_field_warnings">Magnetic Field Warnings</string>
+    <string name="current_error_number">Current Error Number</string>
+    <string name="magnetic_field_warning_number">Magnetic Field Warning Number</string>
+    <string name="voltage_error_number">Voltage Error Number</string>
+    <string name="demand_reset">Demand Reset</string>
+    <string name="demand_reset_number">Demand Reset Number</string>
+    <string name="reset_date">Reset Date</string>
+    <string name="could_not_read">Could not read!</string>
+    <string name="reading">Reading...</string>
+    <string name="reading_ok">Reading successful</string>
+    <string name="reading_ok_with_parsing_errors">Reading successfuly completed with some parsing errors</string>
+    <string name="reading_is_not_healthy">Reading is not healthy!</string>
+    <string name="passing_time">Passing time: </string>
+    <string name="connection_lost">Connection lost!</string>
+    <string name="report">Report</string>
+    <string name="read_all">Read All</string>
+    <string name="load_profile">Load Profile</string>
+    <string name="read_load_profile">Read Load Profile</string>
+    <string name="data">Data</string>
+    <string name="graphics">Graphics</string>
+    <string name="short_read">Short Read</string>
+    <string name="interrupt_pack">Interrupt Pack</string>
+    <string name="past_info_pack">Past Info Pack</string>
+    <string name="warning_pack">Warning Pack</string>
+    <string name="active">Active</string>
+    <string name="application_period_setting">Application Period Setting</string>
+    <string name="auto">Auto</string>
+    <string name="date">Date</string>
+    <string name="day">Day</string>
+    <string name="deactive">Deactive</string>
+    <string name="hour">Hour</string>
+    <string name="hours">Hours</string>
+    <string name="hour_difference">Hour Difference</string>
+    <string name="read_obis">Read OBIS</string>
+    <string name="saturday">Saturday</string>
+    <string name="set_tariff">Set Tariff</string>
+    <string name="set_time">Set Time</string>
+    <string name="slices">Slices</string>
+    <string name="daylight_saving_state">Daylight Saving State</string>
+    <string name="sunday">Sunday</string>
+    <string name="tariff_setting">Tariff Setting</string>
+    <string name="time_setting">Time Setting</string>
+    <string name="weekdays">Weekdays</string>
+    <string name="please_enter_correct_obis_code">Please enter correct OBIS code</string>
+    <string name="password">Password</string>
+    <string name="password_is_incorrect">Password is incorrect!</string>
+    <string name="time_is_set">Time is set</string>
+    <string name="tariff_hour_length_must_be_32_characters">Tariff hour length must be 32 characters!</string>
+    <string name="tariff_is_set">Tariff is set</string>
+    <string name="tariff_is_setting">Tariff is setting</string>
+    <string name="time_is_setting">Time is setting..</string>
+    <string name="could_not_set">Could not set!</string>
+    <string name="the_password_you_entered_is_incorrect">The password you entered is incorrect!</string>
+    <string name="attention">Attention</string>
+    <string name="enter_password">Enter password</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="date_of_energization">Date of energization</string>
+    <string name="real_time_clock_status">Real Time Clock Status</string>
+    <string name="data_by_day">Data by Day</string>
+    <string name="data_by_hour">Data by Hour</string>
+    <string name="data_by_month">Data by Month</string>
+    <string name="month">Month</string>
+    <string name="value">Value</string>
+    <string name="year">Year</string>
+    <string name="previous_month_13">13 Previous Month</string>
+    <string name="previous_month_14">14 Previous Month</string>
+    <string name="previous_month_15">15 Previous Month</string>
+    <string name="previous_month_16">16 Previous Month</string>
+    <string name="previous_month_17">17 Previous Month</string>
+    <string name="previous_month_18">18 Previous Month</string>
+    <string name="previous_month_19">19 Previous Month</string>
+    <string name="previous_month_20">20 Previous Month</string>
+    <string name="previous_month_21">21 Previous Month</string>
+    <string name="previous_month_22">22 Previous Month</string>
+    <string name="previous_month_23">23 Previous Month</string>
+    <string name="previous_month_24">24 Previous Month</string>
+    <string name="minute">Minute</string>
+    <string name="data_by_minute">Data by Minute</string>
+    <string name="terminal_cover_is_closed">Terminal cover is closed.</string>
+    <string name="operation_failed">Operation failed!</string>
+    <string name="is_connecting">is connecting...</string>
+    <string name="osf_report">Osf Report</string>
+    <string name="prepare_osf_report">Prepare Osf Report</string>
+    <string name="distribution_company">Distribution Company</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="responsible_organization">Responsible Organization for Meters</string>
+    <string name="settlement_period">Settlement Period</string>
+    <string name="transmission_company">Transmission Company</string>
+    <string name="uevcb_code">UEVCB Code</string>
+    <string name="parser_error">Parser Error!</string>
+    <string name="file_prefix">File Prefix</string>
+    <string name="export_to_excel">Export to Excel</string>
+    <string name="you_must_run_load_profile_first">You must run load profile first!</string>
+    <string name="combi">Combi</string>
+    <string name="mono">Monophase</string>
+    <string name="three">ThreePhase</string>
+    <string name="serial_number_must_be_at_least_8_digits">Serial number must be at least 8 digits!</string>
+    <string name="excel_failed_to_start_excel_may_not_be_installed">Excel failed to start. Excel may not be installed.</string>
+    <string name="meter_transformer_ratio">Meter Transformer Ratio</string>
+    <string name="values_to_normalize">Values to Normalize</string>
+    <string name="no_records_found">No Records Found!</string>
+    <string name="import_is_succesfull">Import is succesfull.</string>
+    <string name="import_load_profile">Import Load Profile</string>
+    <string name="current_energy_export_grup">Current Energy Export (kWh)</string>
+    <string name="active_energy_export_kwh">Active Energy Export (kWh)</string>
+    <string name="active_energy_export">Active Energy Export</string>
+    <string name="please_wait">Please Wait!</string>
+    <string name="obis_code">Obis Code</string>
+    <string name="all_phase_interrupts">All Phase Interrupts</string>
+    <string name="reading_stopped">Reading stopped!</string>
+    <string name="baudrate_not_supported">Meter does not support {0} Baudrate! Please use maximum {1} Baudrate.</string>
+    <string name="active_energy_export_obis">Active Energy  Export (2.8.0)</string>
+    <string name="active_energy_obis">Active Energy  Import (1.8.0)</string>
+    <string name="demand_obis">Demand (1.6.0)</string>
+    <string name="capacitive_energy_obis">Capacitive Energy (8.8.0)</string>
+    <string name="inductive_energy_obis">Inductive Energy (5.8.0)</string>
+    <string name="active_energy_t1_obis">Active Energy  T1 (1.8.1)</string>
+    <string name="active_energy_t2_obis">Active Energy  T2 (1.8.2)</string>
+    <string name="active_energy_t3_obis">Active Energy  T3 (1.8.3)</string>
+    <string name="capacitive_energy_t1_obis">Capacitive Energy  T1 (8.8.1)</string>
+    <string name="capacitive_energy_t2_obis">Capacitive Energy  T2 (8.8.2)</string>
+    <string name="capacitive_energy_t3_obis">Capacitive Energy  T3 (8.8.3)</string>
+    <string name="inductive_energy_t1_obis">Inductive Energy  T1 (5.8.1)</string>
+    <string name="inductive_energy_t2_obis">Inductive Energy  T2 (5.8.2)</string>
+    <string name="inductive_energy_t3_obis">Inductive Energy  T3 (5.8.3)</string>
+    <string name="settings_not_found">Settings not found!</string>
+    <string name="enter_serial_number">Please enter serial number!</string>
+    <string name="lp_period">Load Profile Period</string>
+    <string name="phase_energy">Phase Energy</string>
+    <string name="phase_energy_kwh">Phase Energy (kWh)</string>
+    <string name="phase_R">R Phase</string>
+    <string name="phase_S">S Phase</string>
+    <string name="phase_T">T Phase</string>
+    <string name="holiday">Holiday</string>
+    <string name="holiday_tariff">Holiday Tariff</string>
+    <string name="phase_status">Phase Status</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="all_cover_openings">All Cover Openings</string>
+    <string name="active_energy_diff">Active Energy  Import (Diff)</string>
+    <string name="active_energy_export_diff">Active Energy  Export (Diff)</string>
+    <string name="current_cover_openings">Current Cover Openings</string>
+    <string name="opening_date">Opening Date</string>
+    <string name="tariff_changes">Tariff Changes</string>
+    <string name="change_date">Change Date</string>
+    <string name="default_baudrate_is_the_maximum_speed_of_meter">Default value is the highest speed that the energy meter can communicate.</string>
+    <string name="total_downtime">Total Downtime</string>
+    <string name="METER_INFORMATION">Meter Information</string>
+    <string name="ENERGY">Energy</string>
+    <string name="V_C_F">Voltage Current Frequency</string>
+    <string name="current_s">S Phase Current</string>
+    <string name="current_t">T Phase Current</string>
+    <string name="voltage_s">S Phase Voltage</string>
+    <string name="voltage_t">T Phase Voltage</string>
+    <string name="read_values">Read Values</string>
+    <string name="optical_read">Read Meter</string>
+    <string name="saved_readings">Saved Readings</string>
+    <string name="application_information">App Information</string>
+    <string name="export_all_to_excel">Export All (Excel)</string>
+    <string name="truncate_all_db">Delete All</string>
+    <string name="are_you_sure_to_delete_all">All saved readings will be deleted. Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="delete_success">All saved readings has been deleted</string>
+    <string name="delete_failed">App error. Records cannot be deleted</string>
+    <string name="exporting_all_to_excel">Exporting all records to excel</string>
+    <string name="exporting_single_to_excel">Exporting to excel..</string>
+
+
+    <string name="capacitive_energy_obis_previous_month">Capacitive Energy (8.8.0*1) Previous Month</string>
+    <string name="inductive_energy_obis_previous_month">Inductive Energy (5.8.0*1) Previous Month</string>
+    <string name="active_energy_t1_obis_previous_month">Active Energy  T1 (1.8.1*1) Previous Month</string>
+    <string name="active_energy_t2_obis_previous_month">Active Energy  T2 (1.8.2*1) Previous Month</string>
+    <string name="active_energy_t3_obis_previous_month">Active Energy  T3 (1.8.3*1) Previous Month</string>
+    <string name="active_energy_t4_obis_previous_month">Active Energy  T4 (1.8.4*1) Previous Month</string>
+    <string name="demand_previous_month">Max Demand (1.6.0*1) Previous Month</string>
+
+    <string name="trying_to_connect_to_bt_reader">Trying to connect to bt reader</string>
+    <string name="connection_to_bt_reader_failed">Connection to bt reader failed</string>
+    <string name="connection_to_bt_reader_succeeded">Connection to bt reader succeeded</string>
+    <string name="connection_to_bt_reader_lost">Connection to bt reader has been lost</string>
+    <string name="bluetooth_optic_reader">Bluetooth Optic Reader</string>
+    <string name="please_be_sure_bt_is_on_and_permitted">Please be sure that Bluetooth is available on the device and permitted to the application</string>
+    <string name="meter_software_update_test">Meter Firmware Update</string>
+    <string name="meter_software_update_error">Meter firmware update failed.</string>
+    <string name="update">Update</string>
+    <string name="new_type_lcd">New LCD</string>
+    <string name="old_type_lcd">Old LCD</string>
+    <string name="meter_software_update_initializing">Initializing</string>
+    <string name="meter_software_update_started">Update Started</string>
+    <string name="meter_software_update_completed">Update Completed</string>
+    <string name="success">Success</string>
+    <string name="clear_penalty_success">Penalties Cleared</string>
+    <string name="clear_penalty_failed">Penalties cannot be cleared</string>
+    <string name="set_penalty_success">Penalty set success</string>
+    <string name="set_penalty_failed">Penalties cannot be set</string>
+    <string name="set_penalty">Set Penalty</string>
+    <string name="read_consumption">Read Consumption</string>
+    <string name="go_back">Go Back</string>
+    <string name="title_electric_optic">Electric Optic</string>
+    <string name="reading_started">Reading Started</string>
+    <string name="trying_connect_to_bt_reader">Trying connect to bt device.</string>
+    <string name="success_bt">Succesfully connect to bt device.</string>
+    <string name="error_bt_read">Exception occured while trying to read datas from optic device.</string>
+    <string name="no_data_received">No data received from meter</string>
+    <string name="sendedWorkOrder">Work order sended to wifi modem with succes:</string>
+    <string name="worOrderSend">Work order send to wifi modem</string>
+    <string name="PleaseConnectBYLNModem">Please Connect BAYLAN WIFI Modem</string>
+    <string name="expired_licence">Your license has expired</string>
+    <string name="str_same_work_order_type">You cannot send the same work order consecutively!</string>
+    <string name="str_work_order_sent">Work order sent</string>
+    <string name="valve_open">Valve Open</string>
+    <string name="valve_closed">Valve Closed</string>
+    <string name="str_saved_adress">XLS File saved your phone\'s local storage</string>
+    <string name="str_new_meters">New Meters</string>
+    <string name="str_number_of_broadcast">Number of Broadcasts Captured: </string>
+    <string name="old_meters_shown">Old meters listed</string>
+    <string name="str_get_warning_meter">Show only meters with warnings.</string>
+    <string name="str_select_range">Select Range</string>
+    <string name="endRange">End Range</string>
+    <string name="startRange">Start Range</string>
+    <string name="str_valid_range">Please enter a valid range</string>
+    <string name="str_meter_count">Meter count:</string>
+    <string name="totalBroadcast">Total Broadcast:</string>
+    <string name="ImportGroupDataFromServer">Import Group Data From Server</string>
+    <string name="GroupList">Group List</string>
+    <string name="MissingMeters">Unreaded Meters Product Codes:</string>
+    <string name="MissingMetersCount">Unreaded Meters Count:</string>
+    <string name="send_read">Send Read</string>
+    <string name="str_readed">Readed Meters</string>
+    <string name="str_unreaded">Unreaded Meters</string>
+    <string name="str_indexed">Indexed</string>
+    <string name="str_billed">Billed</string>
+    <string name="str_writed">Writed</string>
+    <string name="str_all">All</string>
+    <string name="str_filter">Filter</string>
+    <string name="str_complete_meter_readings">"Please complete the meter reading first. "</string>
+    <string name="str_reading_info_sended">"Reading Information Has Been Sent Before. Index cannot be sent again. "</string>
+    <string name="str_internet_connection">Check your internet connection.</string>
+    <string name="str_total_meters">Total meters :</string>
+    <string name="str_wrong_org_or_group">Wrong organization or group selection.</string>
+    <string name="str_count_of_meter"> Meters will be deleted</string>
+    <string name="str_reading_type">Reading Type</string>
+    <string name="str_last_index">Last Index</string>
+    <string name="subscriber">Subscriber</string>
+    <string name="str_first_index">First Index</string>
+    <string name="readed_index">Readed Index</string>
+    <string name="str_invoicement">Invoicement</string>
+    <string name="str_no_billed_data">No record found to be billed</string>
+    <string name="str_no_connected_printer">There are no printer has been connected</string>
+    <string name="str_sending_idnexes">Indices are sent</string>
+    <string name="str_being_filled">Being billed</string>
+    <string name="str_writing">Writing</string>
+    <string name="str_write">Write</string>
+    <string name="str_door_number">Door Number</string>
+    <string name="str_apartment">Apartment</string>
+    <string name="str_district">District</string>
+    <string name="str_incorrect_location">Counter location information is incorrect.</string>
+    <string name="str_stop">Stop</string>
+    <string name="no_data_to_be_sent">No indexed data found</string>
+    <string name="read_counter_indexes_will_be_sent">read counter indexes will be sent.</string>
+    <string name="please_activate_bluetooth_perm">Please check your bluetooth permissions.</string>
+    <string name="export_to_pdf">Export to PDF</string>
+    <string name="vertical_mount_wall">Vertical Mount(Wal)</string>
+    <string name="omega_shaped">Omega Şeklinde</string>
+    <string name="parallel_installation">Parallel Installation</string>
+    <string name="is_meter_parallel_to_ground">Is The Meter  Parallel To The Ground</string>
+    <string name="plumbing_rotten">Plumbing Rotten</string>
+    <string name="installed_ninty_degress">Is the Plumbing Installed at 90 Degrees?</string>
+    <string name="export_to_word">Export to Word File</string>
+    <string name="str_on_your_list">0 Pieces of Counter Information, whose operation is not completed in your list, will be reset.</string>
+    <string name="login_first_export_data">To export data, you must first log in</string>
+    <string name="login_first_import_data">To import data, you must first log in</string>
+    <string name="check_internet_connection">Check your internet connection</string>
+    <string name="or_disconnect_wifi_modem">or disconnect wifi modem</string>
+    <string name="Map">Map</string>
+    <string name="Neighborhood">Neighborhood</string>
+    <string name="loading">Loading List </string>
+    <string name="WaitingSetLocation">Waiting Set Location</string>
+    <string name="succesfuly_connect_wifi_modem">Succesfully connect wifi modem</string>
+    <string name="trying_connect_to_wifi_modem">Trying to connect wifi modem.</string>
+    <string name="wifi_modem_not_found">Wifi modem not found.</string>
+    <string name="wifi_modem_connection_fail">wifi modem connection failed.</string>
+    <string name="str_swipe_rigt_or_left">Swipe right or left to send Workorder</string>
+    <string name="str_filter_description">(You should select the filters you want to add or remove from below and then press the apply button.)</string>
+    <string name="product_range">Product range</string>
+    <string name="product_group">Product Group</string>
+    <string name="last_connection_date">Last Connection Date</string>
+
+    <!--    elektric opot
+
+
+ngs-->
+
+
+</resources>

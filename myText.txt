@@ -1,0 +1,1056 @@
+
+    <string name="navigation_drawer_open">Mở ngăn kéo điều hướng</string>
+    <string name="navigation_drawer_close">Đóng ngăn kéo điều hướng</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_dashboard">Bảng điều khiển</string>
+    <string name="title_notifications">Thông báo</string>
+    <string name="undefined">Không xác định</string>
+    <string name="Active">Hoạt động</string>
+    <string name="Deactive">Không hoạt động</string>
+    <string name="MeterNo">Số đồng hồ</string>
+    <string name="consumption">Tiêu thụ</string>
+    <string name="Credit">Tín dụng</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Xin chào khung trắng</string>
+    <string name="error">Lỗi</string>
+    <string name="connection_failed">Kết nối thất bại</string>
+    <string name="db_connection_failed">Cơ sở dữ liệu có vẻ đã offline</string>
+    <string name="title_activity_welcome">Hoạt động chào mừng</string>
+    <string name="next">TIẾP</string>
+    <string name="skip">BỎ QUA</string>
+    <string name="start">BẮT ĐẦU</string>
+    <string name="Organization">Tổ chức</string>
+    <string name="Diameter">Đường kính</string>
+    <string name="ValveStatus">Trạng thái van</string>
+    <string name="Version">Phiên bản</string>
+    <string name="Battery">Pin</string>
+    <string name="PenaltyWarning">Cảnh báo vi phạm</string>
+    <string name="SendWorkOrders">Gửi đơn công việc</string>
+    <string name="deneme">thử nghiệm</string>
+    <string name="ProductType">Loại sản phẩm</string>
+    <string name="Index">Chỉ số</string>
+    <string name="Searchhere">Tìm kiếm ở đây</string>
+    <string name="Products">Sản phẩm</string>
+    <string name="Last24Hours">24 Giờ qua</string>
+    <string name="ActiveCollector">Hoạt động/Tổng số</string>
+    <string name="ActiveMetersTotalMeters">Số đồng hồ hoạt động/Tổng số đồng hồ</string>
+    <string name="Info">Thông tin</string>
+    <string name="Top10MetersHighConsumptionList">Danh sách 10 đồng hồ tiêu thụ cao nhất</string>
+    <string name="TotalReadedMeters">Tổng số đồng hồ đã đọc</string>
+    <string name="TotalFoundedLocation">Tổng số vị trí đã tìm thấy</string>
+    <string name="LastReadingDate">Ngày đọc gần nhất</string>
+    <string name="TotalUnboundList">Danh sách không ràng buộc tổng số</string>
+    <string name="UserName">Tên người dùng</string>
+    <string name="Password">Mật khẩu</string>
+    <string name="Signin">Đăng nhập</string>
+    <string name="Rememberme">Ghi nhớ tôi</string>
+    <string name="ServiceUrl">Địa chỉ dịch vụ</string>
+    <string name="Language">Ngôn ngữ</string>
+    <string name="ModemType">Loại modem</string>
+    <string name="RfType">Loại RF</string>
+    <string name="HideHelp">Ẩn trợ giúp</string>
+    <string name="SaveSettings">Lưu cài đặt</string>
+    <string name="WorkOrderData">Dữ liệu đơn công việc</string>
+    <string name="WorkOrderType">Loại đơn công việc</string>
+    <string name="GetLocation">Nhận vị trí</string>
+    <string name="SetLocation">Thiết lập vị trí</string>
+    <string name="LastSeen">Lần cuối xem</string>
+    <string name="DisplayMeterontheMap">Hiển thị đồng hồ nước trên bản đồ</string>
+    <string name="Locateyourwatermeteronthemap">Xác định vị trí đồng hồ nước của bạn trên bản đồ</string>
+    <string name="ProductDetail">Chi tiết sản phẩm</string>
+    <string name="YoucanaccessrealProductinformationandsendWorkorder">Bạn có thể truy cập thông tin sản phẩm thực và gửi đơn công việc</string>
+    <string name="Report">Báo cáo</string>
+    <string name="Checkthetechnicalreports">Kiểm tra các báo cáo kỹ thuật của Cổng thông tin tổng hợp, Tổng số sản phẩm/Sản phẩm có Van đóng và Báo cáo tiêu thụ cao.</string>
+    <string name="Dashboard">Bảng điều khiển</string>
+    <string name="ImportandExportdatatoExcelorBMS">Nhập và Xuất dữ liệu sang Excel hoặc BMS</string>
+    <string name="Datasuccessfullyreceived">Dữ liệu đã được nhận thành công</string>
+    <string name="OperationFaild">Thao tác thất bại</string>
+    <string name="CollectDataList">Danh sách thu thập dữ liệu</string>
+    <string name="Date">Ngày</string>
+    <string name="ElectronicNo">Số điện tử</string>
+    <string name="penalties">Hình phạt</string>
+    <string name="Read">Đọc</string>
+    <string name="isList">Là danh sách</string>
+    <string name="ProductListData">Dữ liệu danh sách sản phẩm</string>
+    <string name="SharefileProblem">Vấn đề chia sẻ tệp</string>
+    <string name="ExcelImportFinish">Nhập Excel thành công</string>
+    <string name="SpecifyLocation">Chỉ định vị trí</string>
+    <string name="Youcansethelocationofthelistedwatermeters">Bạn có thể thiết lập vị trí của các đồng hồ nước được liệt kê bằng cách nhấp vào chúng.</string>
+    <string name="ShowMeter">Hiển thị đồng hồ</string>
+    <string name="IfClickthisButtonthemetersareappearsonMap">Nếu nhấp vào nút này, các đồng hồ sẽ xuất hiện trên bản đồ</string>
+    <string name="ShowLocation">Hiển thị vị trí</string>
+    <string name="IfClickthisButtontheOfficerpositonappearsonMap">Nếu nhấp vào nút này, vị trí của nhân viên sẽ xuất hiện trên bản đồ</string>
+    <string name="StartReading">Bắt đầu đọc</string>
+    <string name="IfclickthisbuttonyouwillconnectCollectorandstartgetdatafromcollector">Nếu nhấp vào nút này, bạn sẽ kết nối với Collector và bắt đầu lấy dữ liệu từ Collector</string>
+    <string name="StopReading">Dừng đọc</string>
+    <string name="Ifclickthisbuttonreadingoperationwillstop.AfterthatyoucancontinuewithclickingStartReadingbutton">Nếu nhấp vào nút này, hoạt động đọc sẽ dừng. Sau đó, bạn có thể tiếp tục bằng cách nhấp vào nút Bắt đầu đọc</string>
+    <string name="TransactionMenu">Menu giao dịch</string>
+    <string name="IfclickthisbuttonyoucanexportandimportdatafromserverorExcelFile">Nếu nhấp vào nút này, bạn có thể xuất và nhập dữ liệu từ máy chủ hoặc tệp Excel</string>
+    <string name="Postlocationsuccessful">Gửi vị trí thành công</string>
+    <string name="TherearenoLocations">Không có vị trí nào</string>
+    <string name="SendReadedProductSuccesfully">Gửi sản phẩm đã đọc thành công</string>
+    <string name="CannotsendData">Không thể gửi dữ liệu</string>
+    <string name="Comsumptionsummaryinlast5days">Tóm tắt tiêu thụ trong 5 ngày gần đây</string>
+    <string name="Deletesuccessfully">Xóa thành công</string>
+    <string name="ChooseFile">Chọn tệp</string>
+    <string name="FileImporterProblem">Vấn đề nhập tệp</string>
+    <string name="Youdidntselectexcelfile">Bạn chưa chọn tệp Excel</string>
+    <string name="Incorrectusernameorpassword">Tên người dùng hoặc mật khẩu không đúng</string>
+    <string name="ServiceisnotWorking">Dịch vụ không hoạt động</string>
+    <string name="PleasecheckSericeUrlfromSettingsandinternetconnection">Vui lòng kiểm tra URL dịch vụ từ Cài đặt và kết nối internet</string>
+    <string name="PleaseturnonWifi">Vui lòng bật Wifi</string>
+    <string name="SaveSettingsSuccesfully">Lưu cài đặt thành công</string>
+    <string name="SaveSettingsError">Lỗi khi lưu cài đặt</string>
+    <string name="Serviceurlisnotcorrect">URL dịch vụ không chính xác</string>
+    <string name="PleaseSelectWorkOrder">Vui lòng chọn đơn công việc</string>
+    <string name="WorkOrderSentSuccesfully">Gửi đơn công việc thành công</string>
+    <string name="WorkOrderSentError">Lỗi khi gửi đơn công việc</string>
+    <string name="Getlocationsuccessfully">Nhận vị trí thành công</string>
+    <string name="Getlocationfaild">Không thể nhận vị trí</string>
+    <string name="Login">Đăng nhập</string>
+    <string name="Setting">Cài đặt</string>
+    <string name="LogOut">Đăng xuất</string>
+    <string name="ProductList">Danh sách sản phẩm</string>
+    <string name="ExportLocationtoServer">Xuất vị trí đến máy chủ</string>
+    <string name="ImportLocationfromExcel">Nhập vị trí từ Excel</string>
+    <string name="ImportDatafromServer">Nhập dữ liệu từ máy chủ</string>
+    <string name="ExportDatatoServer">Xuất dữ liệu đến máy chủ</string>
+    <string name="ExportDatatoExcel">Xuất dữ liệu đến Excel</string>
+    <string name="DeleteReadedData">Xóa dữ liệu đã đọc</string>
+    <string name="DeleteAllData">Xóa tất cả dữ liệu</string>
+    <string name="DeleteUnBoundData">Xóa dữ liệu không ràng buộc</string>
+    <string name="GetDataFrom">Nhận dữ liệu từ</string>
+    <string name="Youwillgettotal">Tổng số bạn sẽ nhận được</string>
+    <string name="Confirm">Xác nhận</string>
+    <string name="therearenodata">Không có dữ liệu</string>
+    <string name="getlocationsuccesfully">Nhận vị trí thành công</string>
+    <string name="ProduceProcess">Quy trình sản xuất</string>
+    <string name="Produce">Sản xuất</string>
+    <string name="title_activity_produce">Hoạt động Sản xuất</string>
+    <string name="TouchUp">Kiểm tra</string>
+    <string name="Current">Dòng điện</string>
+    <string name="EyeControl">Điều khiển bằng mắt</string>
+    <string name="tab_text_partino_serino_eslesme">Ghép</string>
+    <string name="Calibration">Hiệu chuẩn</string>
+    <string name="section_format">Xin chào thế giới từ phần: %1$d</string>
+    <string name="PartiNo">Số bộ phận</string>
+    <string name="SeriNo">Số seri</string>
+    <string name="title_activity_productionn_up">Phiếu Sản xuất</string>
+    <string name="title_activity_saved_reads" translatable="false">Các dòng đã lưu</string>
+    <string name="title_activity_produce_page_access_setting">Thiết lập Trang sản xuất</string>
+    <string name="page_settings">Cài đặt trang</string>
+    <string name="Save">Lưu</string>
+    <string name="ProduceSetting">Cài đặt Sản xuất</string>
+    <string name="TuningType">Loại hiệu chuẩn</string>
+    <string name="Delete">Xóa</string>
+    <string name="WorkOrderStatus">Trạng thái Đơn công việc</string>
+    <string name="WorkOrderDeleteSuccessfully">: Xóa Đơn công việc thành công</string>
+    <string name="CannotDeletWorkOrder">Không thể xóa Đơn công việc</string>
+    <string name="StationAccess">Truy cập trạm</string>
+    <string name="Mapping">Định vị</string>
+    <string name="SelectStation">Chọn trạm</string>
+    <string name="Warning">Cảnh báo</string>
+    <string name="BeginProduce">Bắt đầu Sản xuất</string>
+    <string name="OrderName">Tên đơn hàng</string>
+    <string name="MeterType">Loại đồng hồ</string>
+    <string name="Cancel">Hủy</string>
+    <string name="End">Kết thúc</string>
+    <string name="Starting">Bắt đầu</string>
+    <string name="Status">Trạng thái</string>
+    <string name="Waiting">Chờ</string>
+    <string name="Started">Bắt đầu</string>
+    <string name="Delayed">Trễ</string>
+    <string name="Completed">Hoàn thành</string>
+    <string name="Electric">Điện</string>
+    <string name="Water">Nước</string>
+    <string name="Gas">Khí</string>
+    <string name="SerialStart">Số seri Bắt đầu</string>
+    <string name="SerialFinish">Số seri Kết thúc</string>
+    <string name="Sort">Sắp xếp</string>
+    <string name="SortByCreatedDateAsc">Sắp xếp theo Ngày tạo tăng dần</string>
+    <string name="SortByCreatedDateDesc">Sắp xếp theo Ngày tạo giảm dần</string>
+    <string name="SortByOrderArrivalDateAsc">Sắp xếp theo Ngày đến giảm dần</string>
+    <string name="SortByOrderArrivalDateDesc">Sắp xếp theo Ngày đến giảm dần</string>
+    <string name="CreatedDate">Ngày tạo</string>
+    <string name="OrderArrivalDate">Ngày đến</string>
+    <string name="WaterMeter">Đồng hồ nước</string>
+    <string name="ElectricMeter">Đồng hồ điện</string>
+    <string name="NaturalGasMeter">Đồng hồ khí tự nhiên</string>
+    <string name="Collector">Collector</string>
+    <string name="Gateway">Gateway</string>
+    <string name="Module">Module</string>
+    <string name="None">Không có</string>
+    <string name="ThereIsNoMoreRecord">Không còn bản ghi nào</string>
+    <string name="title_activity_haloooo">Haloooo</string>
+    <string name="title_activity_activetion">Kích hoạt</string>
+    <string name="ProductNotPassedFromTouchUp">Sản phẩm không vượt qua trạm 'Kiểm tra'</string>
+    <string name="ProductNotPassedFromCurrent">Sản phẩm không vượt qua trạm 'Dòng điện'</string>
+    <string name="ProductNotPassedFromEyeControl">Sản phẩm không vượt qua trạm 'Điều khiển bằng mắt'</string>
+    <string name="ProductNotPassedFromMapping">Sản phẩm không vượt qua trạm 'Định vị'</string>
+    <string name="gprs_test">Kiểm tra Gprs</string>
+    <string name="BatterylowOrHardwareProblem">Pin yếu hoặc sự cố phần cứng</string>
+    <string name="SimcardNotDetected">Không nhận diện được thẻ sim</string>
+    <string name="ImeiReadProblem">Không thể đọc số IMEI</string>
+    <string name="SimCardCanNotRegister">Không thể đăng ký thẻ sim</string>
+    <string name="GsmOperatorBussy">Nhà mạng Gsm bận</string>
+    <string name="CanNotSendWorkorder">Không thể gửi đơn công việc vì Van/Đồng hồ có vi phạm</string>
+    <string name="CardOperations">Thao tác thẻ</string>
+    <string name="connectCardReader">Kết nối với đầu đọc thẻ</string>
+    <string name="disconnetCardReader">Ngắt kết nối đầu đọc thẻ</string>
+    <string name="loadCredit">Nạp tín dụng</string>
+    <string name="cardChanged">Thẻ đã thay đổi</string>
+    <string name="loadCreditSuccessfully">Nạp tín dụng thành công</string>
+    <string name="loadCreditFailed">Nạp tín dụng thất bại</string>
+    <string name="watingCredit">Đang chờ</string>
+    <string name="limiterror">"Giới hạn tín dụng muốn nạp quá cao"</string>
+    <string name="customerno">Số khách hàng</string>
+    <string name="maincredit">Tín dụng chính</string>
+    <string name="checkCard">Vui lòng kiểm tra xem thẻ của bạn đã được đặt trên đầu đọc thẻ chưa</string>
+    <string name="pleaseConnectCardReader">Vui lòng kết nối đầu đọc thẻ</string>
+    <string name="firstreadcard">Vui lòng đọc thẻ trước</string>
+    <string name="readCard">Đọc thẻ</string>
+    <string name="cardReader">Đầu đọc thẻ</string>
+    <string name="currentCardCredit">Tín dụng hiện tại trên thẻ</string>
+    <string name="clear">Xóa</string>
+    <string name="loadType">Loại nạp</string>
+    <string name="currentCardReserveCredit">Tín dụng dự phòng hiện tại trên thẻ</string>
+    <string name="newVersion">Phiên bản mới đã có sẵn!</string>
+    <string name="newVersionMessage">Vui lòng cập nhật ứng dụng lên phiên bản mới nhất để có các tính năng mới nhất.</string>
+    <string name="CardID">Số thẻ</string>
+    <string name="stsoperations">Thao tác STS</string>
+    <string name="test_user">Người dùng thử nghiệm</string>
+    <string name="OperationComplate">Thao tác đã hoàn tất</string>
+    <string name="accessNumber">Số truy cập</string>
+    <string name="ShowProductionUps">Hiển thị Ups Sản xuất</string>
+    <string name="CancelDispatch">Hủy gửi</string>
+    <string name="DispatchAgain" translatable="false">Gửi lại</string>
+    <string name="Successfull">Thành công</string>
+    <string name="Customer">Khách hàng</string>
+    <string name="City" translatable="false">Thành phố</string>
+    <string name="Select">Chọn</string>
+    <string name="Description">Mô tả</string>
+    <string name="Town">Thị trấn</string>
+    <string name="Dispatch">Gửi</string>
+    <string name="QualityForms">Các biểu mẫu kiểm soát chất lượng</string>
+    <string name="title_activity_dispatcch">Hoạt động Gửi</string>
+    <string name="first_fragment_label">Fragment đầu tiên</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="second_fragment_label">Fragment thứ hai</string>
+    <string name="previous">Trước</string>
+    <string name="hello_first_fragment">Xin chào fragment đầu tiên</string>
+    <string name="hello_second_fragment">Xin chào fragment thứ hai. Đối số: %1$s</string>
+    <string name="title_activity_quality">Biểu mẫu kiểm soát chất lượng</string>
+    <string name="ElectronicMeterInstallationProcessControlForm">Biểu mẫu kiểm soát quá trình lắp đặt đồng hồ điện tử</string>
+    <string name="ScrewPartEnterQualityControlForm">Biểu mẫu kiểm soát quá trình nhập chi tiết vít</string>
+    <string name="ManualTypesettingProcessControlForm">Biểu mẫu kiểm soát quá trình bố trí thủ công</string>
+    <string name="InjectionProcessControlForm">Biểu mẫu kiểm soát quá trình ép nhựa</string>
+    <string name="ElectricityMeterLastControlForm">Biểu mẫu kiểm soát cuối cùng đối với đồng hồ điện</string>
+    <string name="SmdTypesettingProcessControlForm">Biểu mẫu kiểm soát quá trình bố trí SMD</string>
+    <string name="TerminalPartInputProcessControlForm">Biểu mẫu kiểm soát quá trình nhập chi tiết kết nối</string>
+    <string name="title_activity_deneme">Thử nghiệm</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_tabbed_example">Ví dụ Tabbed</string>
+    <string name="GeneralInformations">Thông tin chung</string>
+    <string name="Alerts">Cảnh báo</string>
+    <string name="Tariffs">Bảng giá</string>
+    <string name="General">Chung</string>
+    <string name="FieldOperations">Hoạt động ngoài trường</string>
+    <string name="title_activity_field_operation">Hoạt động ngoài trường</string>
+    <string name="SelectCity">Chọn thành phố</string>
+    <string name="SelectTown">Chọn thị trấn</string>
+    <string name="SelectNeighborhood">Chọn khu dân cư</string>
+    <string name="District">Quận</string>
+    <string name="SelectDistrict">Chọn quận</string>
+    <string name="Street">Đường</string>
+    <string name="SelectStreet">Chọn đường</string>
+    <string name="AllStreet">Tất cả đường</string>
+    <string name="AllDistrict">Tất cả quận</string>
+    <string name="CityNotFound">Không tìm thấy thành phố</string>
+    <string name="TownNotFound">Không tìm thấy thị trấn</string>
+    <string name="DistrictNotFound">Không tìm thấy quận</string>
+    <string name="StreetNotFound">Không tìm thấy đường</string>
+    <string name="Address">Địa chỉ</string>
+    <string name="Search">Tìm kiếm</string>
+    <string name="title_activity_technical_service">Hoạt động chính</string>
+    <string name="large_text">Fragment hoạt động ngoài trường</string>
+    <string name="AboneNo">Số Abone</string>
+    <string name="DeviceNo">Số thiết bị</string>
+    <string name="PleaseSelectTown">Vui lòng chọn thị trấn</string>
+    <string name="PleaseSelectCity">Vui lòng chọn thành phố</string>
+    <string name="PleaseSelectDistrict">Vui lòng chọn quận</string>
+    <string name="SelectOperationType">Chọn loại hoạt động</string>
+    <string name="SearchAbone">Tìm kiếm Abone</string>
+    <string name="Jobs">Công việc</string>
+    <string name="SearchSerialNo">Tìm kiếm số seri</string>
+    <string name="SearchDeviceNo">Tìm kiếm số thiết bị</string>
+    <string name="AboneNoCanNotBeEmpty">Số Abone không thể để trống</string>
+    <string name="SeriNoCanNotBeEmpty">Số seri không thể để trống</string>
+    <string name="AddOperation">Thêm hoạt động</string>
+    <string name="undefinedOperationType">Loại hoạt động không xác định</string>
+    <string name="undefinedOrderType">Loại đơn hàng không xác định</string>
+    <string name="undefinedOrderStatus">Trạng thái đơn hàng không xác định</string>
+    <string name="RemainingLoan">Dư nợ</string>
+    <string name="UsedLoan">Sử dụng nợ</string>
+    <string name="RemainingCredit">Tín dụng còn lại</string>
+    <string name="UsedCredit">Tín dụng đã sử dụng</string>
+    <string name="M3Consumption">Tiêu thụ m3</string>
+    <string name="MechanicalIndex">Chỉ số cơ khí</string>
+    <string name="DebtCredit">Tín dụng nợ</string>
+    <string name="FaultyMeterInfo">Thông tin đồng hồ hỏng</string>
+    <string name="CardCredit">Tín dụng trên thẻ</string>
+    <string name="ReserveCard">Tín dụng dự phòng trên thẻ</string>
+    <string name="FaultyMeterPhoto">Ảnh đồng hồ hỏng</string>
+    <string name="AddPhoto">Thêm ảnh</string>
+    <string name="NewMeterInfo">Thông tin đồng hồ mới</string>
+    <string name="NewMeterSerialNo">Số seri đồng hồ mới</string>
+    <string name="NewMeterAboneNo">Số Abone đồng hồ mới</string>
+    <string name="AdditionalNotice">Thông báo bổ sung</string>
+    <string name="DevicePlaceNotice">Thông báo vị trí thiết bị</string>
+    <string name="MeterDate">Ngày đo đồng hồ</string>
+    <string name="SavedSuccessfully">Lưu thành công</string>
+    <string name="NewMeterDeviceNo">Số thiết bị đồng hồ mới</string>
+    <string name="NewMeterAdvance">Tín dụng dự phòng đồng hồ mới</string>
+    <string name="ClearPhoto">Xóa ảnh</string>
+    <string name="ImageCountCanNotBeLongerThanThree">Số lượng ảnh không thể lớn hơn ba</string>
+    <string name="BackupCreditOnCard">Tín dụng dự phòng trên thẻ</string>
+    <string name="Unknown">Không xác định</string>
+    <string name="UnAssigned">Chưa được giao</string>
+    <string name="AssignedNotStarted">Đã được giao (Chưa bắt đầu)</string>
+    <string name="AssignedStarted">Đã được giao (Đã bắt đầu)</string>
+    <string name="AssignedCompleted">Đã được giao (Hoàn thành)</string>
+    <string name="AssignedRedirected">Đã được giao (Được chuyển hướng)</string>
+    <string name="AssignedRejected">Đã được giao (Bị từ chối)</string>
+    <string name="Cancelled">Đã hủy</string>
+    <string name="Feedback">Phản hồi</string>
+    <string name="AddressMismatch">Không khớp địa chỉ</string>
+    <string name="WaterMeterLocationLocked">Vị trí đồng hồ nước bị khóa</string>
+    <string name="ConsumerRejected">Người dùng từ chối</string>
+    <string name="BuildingCollapsed">Tòa nhà sụp đổ</string>
+    <string name="ConvertedToRepairAndMaintanceService">Đã chuyển sang dịch vụ sửa chữa và bảo dưỡng</string>
+    <string name="ConsumerNotAtHome">Người dùng không có mặt</string>
+    <string name="WaterMeterNotFound">Không tìm thấy đồng hồ nước</string>
+    <string name="AddressNotFound">Không tìm thấy địa chỉ</string>
+    <string name="InstallationService">Dịch vụ lắp đặt</string>
+    <string name="FieldTechnicalService">Dịch vụ kỹ thuật ngoài trường</string>
+    <string name="RepairAndMaintanceService">Dịch vụ sửa chữa và bảo dưỡng</string>
+    <string name="PeriodicalMaintanceService">Dịch vụ bảo dưỡng định kỳ</string>
+    <string name="FaultyWaterMeterService">Dịch vụ đồng hồ nước hỏng</string>
+    <string name="WaterMeterRemovalService">Dịch vụ tháo lắp đồng hồ nước</string>
+    <string name="WaterMeterResetService">Dịch vụ đặt lại đồng hồ nước</string>
+    <string name="WithinWarrantyService">Dịch vụ trong thời hạn bảo hành</string>
+    <string name="Other">Khác</string>
+    <string name="PleaseFillMeterNoOrAboneNo">Vui lòng điền số đồng hồ hoặc số Abone</string>
+    <string name="FieldOperationAlreadyExists">Hoạt động ngoài trường đã tồn tại</string>
+    <string name="MeterNoCanNotBeEmpty">Số đồng hồ không thể để trống</string>
+    <string name="AssignedOperations">Các hoạt động đã được giao</string>
+    <string name="AboneNoNotExists">Số Abone không tồn tại</string>
+    <string name="MeterInfo">Thông tin đồng hồ</string>
+    <string name="NewMeterNo">Số đồng hồ mới</string>
+    <string name="ClearFilter">Xóa bộ lọc</string>
+    <string name="JobsAddress">Công việc (Địa chỉ)</string>
+    <string name="JobsAbone">Công việc (Abone)</string>
+    <string name="JobsDevice">Công việc (Thiết bị)</string>
+    <string name="JobsMeterNo">Công việc (Số đồng hồ)</string>
+    <string name="FiltersClearedSuccessfully">Bộ lọc đã được xóa thành công</string>
+    <string name="title_activity_zebra_print">ZebraPrintActivity</string>
+    <string name="menu_clear_active">Xóa máy in đang hoạt động</string>
+    <string name="Print">In</string>
+    <string name="ConnectedPrinter">Máy in đã kết nối</string>
+    <string name="PrinterConnected">Đã kết nối máy in</string>
+    <string name="NoPrintersFound">Không tìm thấy máy in</string>
+    <string name="DiscoveryFinished">Kết thúc tìm kiếm</string>
+    <string name="PrintersFound">Tìm thấy máy in</string>
+    <string name="ChooseAPrinterFromTheList">Chọn một máy in từ danh sách</string>
+    <string name="SearchingForDefaultPrinter">Đang tìm kiếm máy in mặc định</string>
+    <string name="ReconnectingToPrinter">Đang kết nối lại với máy in</string>
+    <string name="SearchingForBluetoothPrinters">Đang tìm kiếm máy in Bluetooth</string>
+    <string name="SearchingForPrintersAroundYou">Đang tìm kiếm máy in xung quanh bạn</string>
+    <string name="ErrorDuringDiscovery">Lỗi trong quá trình tìm kiếm</string>
+    <string name="ChoosePrinter">Chọn máy in</string>
+    <string name="PrinterConnecting">Đang kết nối máy in</string>
+    <string name="BluetoothDevicesFound">Tìm thấy thiết bị Bluetooth</string>
+    <string name="NoDevicesFound">Không tìm thấy thiết bị</string>
+    <string name="Printing">Đang in</string>
+    <string name="Pending">Đang chờ</string>
+    <string name="ScanAgain">Quét lại</string>
+    <string name="SeeAdvancedOptions">Xem các tùy chọn nâng cao</string>
+    <string name="SelectPrinters">Chọn máy in</string>
+    <string name="RefreshPrinters">Làm mới danh sách máy in</string>
+    <string name="SealNo">Số plomba</string>
+    <string name="WaterMeterPlaceNotAvailable">Vị trí đồng hồ nước không khả dụng</string>
+    <string name="FieldOperationServiceStarted">Dịch vụ hoạt động ngoài trường đã bắt đầu</string>
+    <string name="FieldOperationDataEqualizeServiceActivated">Dịch vụ cân bằng dữ liệu hoạt động ngoài trường đã kích hoạt</string>
+    <string name="PostedSuccessfully">Đăng thành công</string>
+    <string name="ConsumptionCanNotBeEmpty">Tiêu thụ không thể để trống</string>
+    <string name="SealNoCanNotBeEmpty">Số plomba không thể để trống</string>
+    <string name="SealNoCanNotBeControlled">Không thể kiểm soát số plomba</string>
+    <string name="DuplicatedSealNo">Số plomba trùng lặp</string>
+    <string name="SealNoAlreadyExist">Số plomba đã tồn tại</string>
+    <string name="NewSealNo">Số plomba mới</string>
+    <string name="History">Lịch sử</string>
+    <string name="ProcessType">Loại quy trình</string>
+    <string name="WaterMeterChangedWithInfo">Thay đổi đồng hồ nước với thông tin</string>
+    <string name="WaterMeterChanged">Thay đổi đồng hồ nước</string>
+    <string name="SparePartChanged">Thay đổi linh kiện thay thế</string>
+    <string name="OnSiteService">Dịch vụ tại chỗ</string>
+    <string name="NoActionTaken">Không có hành động nào được thực hiện</string>
+    <string name="DetectedFaults">Các lỗi được phát hiện</string>
+    <string name="Debt">Nợ</string>
+    <string name="Penalty1">Phạt1</string>
+    <string name="Penalty2">Phạt2</string>
+    <string name="Penalty3">Phạt3</string>
+    <string name="Penalty4">Phạt4</string>
+    <string name="ScreenOK">Màn hình OK</string>
+    <string name="ScreenFaint">Màn hình mờ</string>
+    <string name="OverConsumption">Tiêu thụ vượt quá</string>
+    <string name="Invalid">Không hợp lệ</string>
+    <string name="NoDisplay">Không hiển thị</string>
+    <string name="DamagedDisplay">Màn hình hỏng</string>
+    <string name="IllegalUsage">Sử dụng bất hợp pháp</string>
+    <string name="CardError">Lỗi thẻ</string>
+    <string name="NotLoadCredit">Không nạp tiền</string>
+    <string name="BrokenSeal">Niêm phong bị hỏng</string>
+    <string name="LowBattery">Pin yếu</string>
+    <string name="DeadBattery">Pin hết</string>
+    <string name="StrainerClipBroken">Kẹp bị hỏng</string>
+    <string name="FiitngClipBroken">Kẹp bị hỏng</string>
+    <string name="MeterInformationConfused">Thông tin đồng hồ bị lẫn lộn</string>
+    <string name="MeterInterfering">Đồng hồ bị nhiễu</string>
+    <string name="Leakage">Rò rỉ</string>
+    <string name="SoundOnMeter">Âm thanh trên đồng hồ</string>
+    <string name="Service">Dịch vụ</string>
+    <string name="Magnetic">Nam châm</string>
+    <string name="ValveOpenNoWater">Van mở không có nước</string>
+    <string name="ValveCloseNoWater">Van đóng không có nước</string>
+    <string name="ValveOpenCloseconstantly">Van mở đóng liên tục</string>
+    <string name="CardNotInserted">Thẻ không được chèn</string>
+    <string name="MeterNotCount">Đồng hồ không đếm</string>
+    <string name="ScreenConstant">Màn hình không đổi</string>
+    <string name="Duplicate">Trùng lặp</string>
+    <string name="MeterBurst">Đồng hồ bị vỡ</string>
+    <string name="NotGetOutConrol">Không kiểm soát được</string>
+    <string name="InstallationBurst">Bùng nổ lắp đặt</string>
+    <string name="ElectronicIndexNotCount">Chỉ số điện tử không đếm</string>
+    <string name="MechanicIndexNotCount">Chỉ số cơ không đếm</string>
+    <string name="MeterFrozen">Đồng hồ bị đóng băng</string>
+    <string name="WaterInDrums">Nước trong bồn</string>
+    <string name="ResetMeter">Đồng hồ được đặt lại</string>
+    <string name="MeterDisassembly">Đồng hồ bị tháo rời</string>
+    <string name="MeterNormal">Đồng hồ bình thường</string>
+    <string name="PulseError">Lỗi xung</string>
+    <string name="WaterNotUse">Không sử dụng nước</string>
+    <string name="MeterControl">Điều khiển đồng hồ</string>
+    <string name="FittingError">Lỗi phụ kiện</string>
+    <string name="FrequencyError">Lỗi tần số</string>
+    <string name="Difference">Khác biệt</string>
+    <string name="ElectronicInfoFault">Lỗi thông tin điện tử</string>
+    <string name="MeterDamaged">Đồng hồ bị hỏng</string>
+    <string name="CardReaderFault">Lỗi đầu đọc thẻ</string>
+    <string name="NewInstallation">Lắp đặt mới</string>
+    <string name="MeterChanged">Đổi đồng hồ</string>
+    <string name="Yes">Có</string>
+    <string name="No">Không</string>
+    <string name="MeterTypeCanNotBeEmpty">Loại đồng hồ không thể để trống</string>
+    <string name="NewMeterType">Loại đồng hồ mới</string>
+    <string name="please_turn_on_location_service">Vui lòng bật dịch vụ định vị</string>
+    <string name="please_fill_in_the_required_fields">Vui lòng điền vào các trường bắt buộc</string>
+    <string name="form_registration">Bạn phải chọn ít nhất một quy trình thanh toán thành công hoặc thất bại để đăng ký.</string>
+    <string name="title_optic">Quang học</string>
+    <string name="Please_Fill_in_the_Card_Model_Field">Vui lòng điền vào trường mô hình thẻ</string>
+    <string name="card_model">Mô hình thẻ</string>
+    <string name="meter_found">Tìm thấy đồng hồ</string>
+    <string name="list_meters">Danh sách</string>
+    <string name="meter_list_success">Danh sách đồng hồ đã được liệt kê thành công</string>
+    <string name="meter_not_found">Không tìm thấy đồng hồ!</string>
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+    <string name="CleanDBWarning">Bạn có đồng ý xóa dữ liệu?</string>
+    <string name="field_readings">Đọc chỉ số</string>
+    <string name="close_valve">Đóng van</string>
+    <string name="open_valve">Mở van</string>
+    <string name="valve_close_and_lock">Đóng và khóa van</string>
+    <string name="valve_open_and_lock">Mở và khóa van</string>
+    <string name="clear_penalty">Xóa vi phạm</string>
+    <string name="daily_log">Nhật ký hàng ngày</string>
+    <string name="hourly_log">Nhật ký hàng giờ</string>
+    <string name="public_holiday_check_active">Kiểm tra ngày lễ công cộng đang hoạt động</string>
+    <string name="public_holiday_check_passive">Kiểm tra ngày lễ công cộng không hoạt động</string>
+    <string name="leakage_valve_close_active">Van rò rỉ đóng hoạt động</string>
+    <string name="leakage_valve_close_passive">Van rò rỉ đóng không hoạt động</string>
+    <string name="overtime_active">Làm thêm giờ đang hoạt động</string>
+    <string name="overtime_passive">Làm thêm giờ không hoạt động</string>
+    <string name="NoThanks">Không, cảm ơn</string>
+    <string name="succcessfuly_exported">Xuất thành công đến</string>
+    <string name="created">Đã tạo</string>
+    <string name="received_from_wifi_modem">Nhận modem từ wifi</string>
+    <string name="Send">Gửi</string>
+    <string name="MeterInformation">Thông tin đồng hồ</string>
+    <string name="VoltageCurrentFrequency">Điện áp hiện tại tần số</string>
+    <string name="Energy">Năng lượng</string>
+    <!--    elektric opotic strings-->
+    <string name="app_sw_version" translatable="false">0.5.1</string>
+    <string name="app_hw_version" translatable="false">1.2.0</string>
+    <!-- Date Util -->
+    <string name="date_util_term_less">ít hơn</string>
+    <string name="date_util_term_a">một</string>
+    <string name="date_util_term_an">một</string>
+    <string name="date_util_unit_second">giây</string>
+    <string name="date_util_unit_seconds">giây</string>
+    <string name="date_util_unit_minute">phút</string>
+    <string name="date_util_unit_minutes">phút</string>
+    <string name="date_util_unit_hour">giờ</string>
+    <string name="date_util_unit_hours">giờ</string>
+    <string name="date_util_unit_day">ngày</string>
+    <string name="date_util_unit_days">ngày</string>
+    <string name="date_util_unit_month">tháng</string>
+    <string name="date_util_unit_months">tháng</string>
+    <string name="date_util_unit_year">năm</string>
+    <string name="date_util_unit_years">năm</string>
+    <string name="date_util_unit_second_abbr">giây</string>
+    <string name="date_util_unit_seconds_abbr">giây</string>
+    <string name="date_util_unit_minute_abbr">phút</string>
+    <string name="date_util_unit_minutes_abbr">phút</string>
+    <string name="date_util_unit_hours_abbr">giờ</string>
+    <string name="date_util_unit_days_abbr">ngày</string>
+    <string name="date_util_unit_months_abbr">tháng</string>
+    <string name="date_util_unit_years_abbr">năm</string>
+    <string name="date_util_prefix_lt">ít hơn một</string>
+    <string name="date_util_prefix_about">khoảng</string>
+    <string name="date_util_prefix_over">hơn</string>
+    <string name="date_util_prefix_almost">gần</string>
+    <string name="date_util_suffix">trước</string>
+    <string name="CONTACT_EMAIL" translatable="false">info@baylanelektrik.com</string>
+    <string name="nav_header_desc">Trang chính</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="app_info_email" translatable="false">info@baylanelektrik.com</string>
+    <string name="APP_CRASH_TOAST_TEXT">Oops ! Baylan Mobile đã gặp sự cố, nhưng đã gửi báo cáo đến nhà phát triển để giúp sửa lỗi !</string>
+    <string name="APP_CRASH_DIALOG_TEXT">Đã xảy ra lỗi không mong muốn làm cho ứng dụng dừng lại. Vui lòng giúp chúng tôi sửa lỗi này bằng cách gửi dữ liệu lỗi cho chúng tôi, bạn chỉ cần nhấp vào OK.</string>
+    <string name="APP_CRASH_DIALOG_COMMENT_PROMPT">Bạn có thể thêm ý kiến của mình về vấn đề bên dưới:</string>
+    <string name="APP_CRASH_DIALOG_OK_TOAST">Cảm ơn bạn!</string>
+    <string name="APP_CRASH_DIALOG_TITLE">Baylan Mobile đã gặp sự cố..</string>
+        <string name="LOREM_IPSUM_PLACEHOLDER" translatable="false">
+    <![CDATA[
+        <p>
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        ]]>
+    </string>
+    <string-array name="baud_rate_1">
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>921600</item>
+    </string-array>
+
+    <string-array name="baud_rate_2">
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+    </string-array>
+
+    <string-array name="stop_bits">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="data_bits">
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="parity">
+        <item>None</item>
+        <item>Odd</item>
+        <item>Even</item>
+        <item>Mak</item>
+        <item>Sce</item>
+    </string-array>
+
+    <string-array name="flow_control">
+        <item>None</item>
+        <item>CTS/RTS</item>
+        <item>DTR/DSR</item>
+        <item>XOFF/XON</item>
+    </string-array>
+
+    <string-array name="port_list_1">
+        <item>0</item>
+    </string-array>
+
+
+    <string-array name="port_list_2">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="port_list_3">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="port_list_4">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="port_list_5">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="port_list_6">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="port_list_7">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="port_list_8">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <string-array name="nav_bar_alternates">
+        <item>#EC93291E</item>
+        <item>#ED93291E</item>
+    </string-array>
+
+    <string name="SHARE">Chia sẻ</string>
+    <string name="DISMISS">Đóng</string>
+    <string name="DEVICE_NOT_CONNECTED_CHECK_CONNECTION">Không thể tìm thấy thiết bị. Vui lòng kiểm tra cáp kết nối</string>
+    <string name="PORT_NOT_CONFIGURED">Cài đặt cổng trống rỗng.</string>
+    <string name="INCORRECT_HEX_DATA">Dữ liệu Hex không chính xác</string>
+    <string name="METER_QUERY_STRING_ERROR">Không thể nhận diện câu trả lời truy vấn. Không thể khởi tạo việc đọc</string>
+    <string name="about">Về ứng dụng</string>
+    <string name="communication_logs">Nhật ký giao tiếp</string>
+    <string name="connect">Kết nối</string>
+    <string name="connection_settings">Cài đặt kết nối</string>
+    <string name="cover_openings">Mở nắp</string>
+    <string name="current_energy_grup">Năng lượng tiêu thụ hiện tại (kWh)</string>
+    <string name="current_voltage_frequency">Hiện tại | Điện áp | Tần số</string>
+    <string name="disconnect">Ngắt kết nối</string>
+    <string name="empty">Trống</string>
+    <string name="exit">Thoát</string>
+    <string name="full">Đầy</string>
+    <string name="general">Chung</string>
+    <string name="help">Trợ giúp</string>
+    <string name="information">Thông tin</string>
+    <string name="is_connected">đã kết nối</string>
+    <string name="is_disconnected">đã ngắt kết nối</string>
+    <string name="language_settings">Cài đặt ngôn ngữ</string>
+    <string name="phase_interrupts">Sự gián đoạn pha</string>
+    <string name="port_could_not_close">Không thể đóng cổng</string>
+    <string name="port_could_not_open">Không thể mở cổng</string>
+    <string name="port_is_allready_open">Cổng đã được mở</string>
+    <string name="port_unselected">Cổng chưa được chọn</string>
+    <string name="long_read">Đọc dài</string>
+    <string name="r_phase">Pha R</string>
+    <string name="saturday_tariff">Giá thứ bảy</string>
+    <string name="serial_number">Số serial</string>
+    <string name="settings">Cài đặt</string>
+    <string name="sunday_tariff">Giá chủ nhật</string>
+    <string name="s_phase">Pha S</string>
+    <string name="tariffs">Giá</string>
+    <string name="t_phase">Pha T</string>
+    <string name="weekdays_tariff">Giá ngày trong tuần</string>
+    <string name="xml_read_error">Lỗi đọc XML</string>
+    <string name="xml_write_error">Lỗi ghi XML</string>
+    <string name="are_you_sure_to_exit">Bạn có chắc chắn muốn thoát?</string>
+    <string name="confirmation">Xác nhận</string>
+    <string name="battery_status">Trạng thái pin</string>
+    <string name="calibration_date">Ngày hiệu chuẩn</string>
+    <string name="day_of_week">Ngày trong tuần</string>
+    <string name="demand_period">Chu kỳ yêu cầu</string>
+    <string name="meter_date">Ngày đo điện</string>
+    <string name="meter_hour">Giờ đo điện</string>
+    <string name="meter_id">ID đồng hồ đo điện</string>
+    <string name="production_date">Ngày sản xuất</string>
+    <string name="current">Dòng điện</string>
+    <string name="frequency">Tần số</string>
+    <string name="tariff_1">Giá 1</string>
+    <string name="tariff_2">Giá 2</string>
+    <string name="tariff_3">Giá 3</string>
+    <string name="tariff_4">Giá 4</string>
+    <string name="total_tariff">Tổng giá</string>
+    <string name="voltage">Điện áp</string>
+    <string name="current_energy">Năng lượng tiêu thụ hiện tại</string>
+    <string name="previous_month_01">Tháng trước</string>
+    <string name="previous_month_02">2 tháng trước</string>
+    <string name="previous_month_03">3 tháng trước</string>
+    <string name="previous_month_04">4 tháng trước</string>
+    <string name="previous_month_05">5 tháng trước</string>
+    <string name="previous_month_06">6 tháng trước</string>
+    <string name="previous_month_07">7 tháng trước</string>
+    <string name="previous_month_08">8 tháng trước</string>
+    <string name="previous_month_09">9 tháng trước</string>
+    <string name="previous_month_10">10 tháng trước</string>
+    <string name="previous_month_11">11 tháng trước</string>
+    <string name="previous_month_12">12 tháng trước</string>
+    <string name="current_demand">Yêu cầu tối đa</string>
+    <string name="demand_date">Ngày yêu cầu tối đa</string>
+    <string name="end_date">Ngày kết thúc</string>
+    <string name="last_opening_date">Ngày mở nắp lần cuối</string>
+    <string name="main_cover_opening">Mở nắp chính</string>
+    <string name="number">Số</string>
+    <string name="start_date">Ngày bắt đầu</string>
+    <string name="terminal_cover_opening">Mở nắp terminal</string>
+    <string name="baudrate">Tốc độ baud</string>
+    <string name="connection_type">Loại kết nối</string>
+    <string name="ok">Đồng ý</string>
+    <string name="assembly_company">Đồng hồ nước Baylan</string>
+    <string name="assembly_copyright">Bản quyền © 2018</string>
+    <string name="assembly_description">Chương trình phần mềm này cho phép bạn đọc dữ liệu đồng hồ điện Baylan</string>
+    <string name="assembly_product">Giao diện người dùng điện năng Baylan</string>
+    <string name="firmware_version">Phiên bản firmware</string>
+    <string name="phase_interrupt_number_r">Số gián đoạn pha R</string>
+    <string name="tariff_information_change_date">Ngày thay đổi thông tin giá</string>
+    <string name="clean">Xóa</string>
+    <string name="copy">Sao chép</string>
+    <string name="active_energy">Năng lượng tiêu thụ chủ động</string>
+    <string name="active_energy_kwh">Năng lượng tiêu thụ chủ động (kWh)</string>
+    <string name="reactive_energy">Năng lượng phản kháng</string>
+    <string name="reactive_energy_kvarh">Năng lượng phản kháng (kVArh)</string>
+    <string name="capacitive">Dung tích</string>
+    <string name="inductive">Tính từ</string>
+    <string name="phase_interrupt_number_rst">Số gián đoạn pha RST</string>
+    <string name="phase_interrupt_number_s">Số gián đoạn pha S</string>
+    <string name="phase_interrupt_number_t">Số gián đoạn pha T</string>
+    <string name="phase_interrupt_number">Số gián đoạn pha</string>
+    <string name="long_">Dài</string>
+    <string name="phase_interrupt_r">Gián đoạn pha R</string>
+    <string name="phase_interrupt_rst">Gián đoạn pha RST</string>
+    <string name="phase_interrupt_s">Gián đoạn pha S</string>
+    <string name="phase_interrupt_t">Gián đoạn pha T</string>
+    <string name="short_">Ngắn</string>
+    <string name="current_errors">Lỗi dòng điện</string>
+    <string name="voltage_errors">Lỗi điện áp</string>
+    <string name="warnings">Cảnh báo</string>
+    <string name="magnetic_field_warnings">Cảnh báo từ trường từ</string>
+    <string name="current_error_number">Số lỗi dòng điện</string>
+    <string name="magnetic_field_warning_number">Số cảnh báo từ trường từ</string>
+    <string name="voltage_error_number">Số lỗi điện áp</string>
+    <string name="demand_reset">Đặt lại nhu cầu</string>
+    <string name="demand_reset_number">Số đặt lại nhu cầu</string>
+    <string name="reset_date">Ngày đặt lại</string>
+    <string name="could_not_read">Không thể đọc!</string>
+    <string name="reading">Đang đọc...</string>
+    <string name="reading_ok">Đọc thành công</string>
+    <string name="reading_ok_with_parsing_errors">Đọc thành công với một số lỗi phân tích</string>
+    <string name="reading_is_not_healthy">Đọc không đáng tin cậy!</string>
+    <string name="passing_time">Thời gian trôi qua: </string>
+    <string name="connection_lost">Mất kết nối!</string>
+    <string name="report">Báo cáo</string>
+    <string name="read_all">Đọc toàn bộ</string>
+    <string name="load_profile">Hồ sơ tải</string>
+    <string name="read_load_profile">Đọc hồ sơ tải</string>
+    <string name="data">Dữ liệu</string>
+    <string name="graphics">Đồ họa</string>
+    <string name="short_read">Đọc ngắn</string>
+    <string name="interrupt_pack">Gói gián đoạn</string>
+    <string name="past_info_pack">Gói thông tin cũ</string>
+    <string name="warning_pack">Gói cảnh báo</string>
+    <string name="active">Hoạt động</string>
+    <string name="application_period_setting">Cài đặt chu kỳ ứng dụng</string>
+    <string name="auto">Tự động</string>
+    <string name="date">Ngày</string>
+    <string name="day">Ngày</string>
+    <string name="hour">Giờ</string>
+    <string name="hours">Giờ</string>
+    <string name="hour_difference">Chênh lệch giờ</string>
+    <string name="read_obis">Đọc OBIS</string>
+    <string name="saturday">Thứ bảy</string>
+    <string name="set_tariff">Đặt giá</string>
+    <string name="set_time">Đặt thời gian</string>
+    <string name="slices">Số lát cắt</string>
+    <string name="daylight_saving_state">Trạng thái tiết kiệm ánh sáng ban ngày</string>
+    <string name="sunday">Chủ nhật</string>
+    <string name="tariff_setting">Cài đặt giá</string>
+    <string name="time_setting">Cài đặt thời gian</string>
+    <string name="weekdays">Ngày trong tuần</string>
+    <string name="please_enter_correct_obis_code">Vui lòng nhập mã OBIS chính xác</string>
+    <string name="password_is_incorrect">Mật khẩu không đúng!</string>
+    <string name="time_is_set">Đã đặt thời gian</string>
+    <string name="tariff_hour_length_must_be_32_characters">Độ dài giờ giá phải là 32 ký tự!</string>
+    <string name="tariff_is_set">Đã đặt giá</string>
+    <string name="tariff_is_setting">Đang đặt giá</string>
+    <string name="time_is_setting">Đang đặt thời gian..</string>
+    <string name="could_not_set">Không thể đặt!</string>
+    <string name="the_password_you_entered_is_incorrect">Mật khẩu bạn nhập không đúng!</string>
+    <string name="attention">Chú ý</string>
+    <string name="enter_password">Nhập mật khẩu</string>
+    <string name="correct">Chính xác</string>
+    <string name="incorrect">Không chính xác</string>
+    <string name="date_of_energization">Ngày khởi động</string>
+    <string name="real_time_clock_status">Trạng thái đồng hồ thời gian thực</string>
+    <string name="data_by_day">Dữ liệu theo ngày</string>
+    <string name="data_by_hour">Dữ liệu theo giờ</string>
+    <string name="data_by_month">Dữ liệu theo tháng</string>
+    <string name="month">Tháng</string>
+    <string name="value">Giá trị</string>
+    <string name="year">Năm</string>
+    <string name="previous_month_13">13 tháng trước</string>
+    <string name="previous_month_14">14 tháng trước</string>
+    <string name="previous_month_15">15 tháng trước</string>
+    <string name="previous_month_16">16 tháng trước</string>
+    <string name="previous_month_17">17 tháng trước</string>
+    <string name="previous_month_18">18 tháng trước</string>
+    <string name="previous_month_19">19 tháng trước</string>
+    <string name="previous_month_20">20 tháng trước</string>
+    <string name="previous_month_21">21 tháng trước</string>
+    <string name="previous_month_22">22 tháng trước</string>
+    <string name="previous_month_23">23 tháng trước</string>
+    <string name="previous_month_24">24 tháng trước</string>
+    <string name="minute">Phút</string>
+    <string name="data_by_minute">Dữ liệu theo phút</string>
+    <string name="terminal_cover_is_closed">Nắp terminal đã đóng kín.</string>
+    <string name="operation_failed">Thất bại trong thực hiện!</string>
+    <string name="is_connecting">Đang kết nối...</string>
+    <string name="osf_report">Báo cáo OSF</string>
+    <string name="prepare_osf_report">Chuẩn bị báo cáo OSF</string>
+    <string name="distribution_company">Công ty phân phối</string>
+    <string name="plant_name">Tên nhà máy</string>
+    <string name="responsible_organization">Tổ chức có trách nhiệm về các đồng hồ đo</string>
+    <string name="settlement_period">Giai đoạn giải quyết</string>
+    <string name="transmission_company">Công ty truyền tải</string>
+    <string name="uevcb_code">Mã UEVCB</string>
+    <string name="parser_error">Lỗi cú pháp!</string>
+    <string name="file_prefix">Tiền tố tệp</string>
+    <string name="export_to_excel">Xuất ra Excel</string>
+    <string name="you_must_run_load_profile_first">Bạn phải chạy hồ sơ tải trước!</string>
+    <string name="combi">Combi</string>
+    <string name="mono">Dòng điện đơn</string>
+    <string name="three">Ba pha</string>
+    <string name="serial_number_must_be_at_least_8_digits">Số serial phải có ít nhất 8 chữ số!</string>
+    <string name="excel_failed_to_start_excel_may_not_be_installed">Không thể khởi động Excel. Excel có thể chưa được cài đặt.</string>
+    <string name="meter_transformer_ratio">Tỷ số biến áp của đồng hồ đo</string>
+    <string name="values_to_normalize">Giá trị cần chuẩn hóa</string>
+    <string name="no_records_found">Không tìm thấy hồ sơ!</string>
+    <string name="import_is_succesfull">Nhập thành công.</string>
+    <string name="import_load_profile">Nhập hồ sơ tải</string>
+    <string name="current_energy_export_grup">Năng lượng tiêu thụ hiện tại (kWh)</string>
+    <string name="active_energy_export_kwh">Năng lượng tiêu thụ chủ động xuất khẩu (kWh)</string>
+    <string name="active_energy_export">Năng lượng tiêu thụ chủ động xuất khẩu</string>
+    <string name="please_wait">Vui lòng đợi!</string>
+    <string name="obis_code">Mã OBIS</string>
+    <string name="all_phase_interrupts">Tất cả các gián đoạn pha</string>
+    <string name="reading_stopped">Đọc đã dừng lại!</string>
+    <string name="baudrate_not_supported">Đồng hồ đo không hỗ trợ tốc độ baud {0}! Vui lòng sử dụng tối đa {1} tốc độ baud.</string>
+    <string name="active_energy_export_obis">Năng lượng tiêu thụ chủ động xuất khẩu (2.8.0)</string>
+    <string name="active_energy_obis">Năng lượng tiêu thụ chủ động nhập khẩu (1.8.0)</string>
+    <string name="demand_obis">Nhu cầu (1.6.0)</string>
+    <string name="capacitive_energy_obis">Năng lượng điện dung (8.8.0)</string>
+    <string name="inductive_energy_obis">Năng lượng điện từ (5.8.0)</string>
+    <string name="active_energy_t1_obis">Năng lượng tiêu thụ chủ động T1 (1.8.1)</string>
+    <string name="active_energy_t2_obis">Năng lượng tiêu thụ chủ động T2 (1.8.2)</string>
+    <string name="active_energy_t3_obis">Năng lượng tiêu thụ chủ động T3 (1.8.3)</string>
+    <string name="capacitive_energy_t1_obis">Năng lượng điện dung T1 (8.8.1)</string>
+    <string name="capacitive_energy_t2_obis">Năng lượng điện dung T2 (8.8.2)</string>
+    <string name="capacitive_energy_t3_obis">Năng lượng điện dung T3 (8.8.3)</string>
+    <string name="inductive_energy_t1_obis">Năng lượng điện từ T1 (5.8.1)</string>
+    <string name="inductive_energy_t2_obis">Năng lượng điện từ T2 (5.8.2)</string>
+    <string name="inductive_energy_t3_obis">Năng lượng điện từ T3 (5.8.3)</string>
+    <string name="settings_not_found">Không tìm thấy cài đặt!</string>
+    <string name="enter_serial_number">Vui lòng nhập số serial!</string>
+    <string name="lp_period">Chu kỳ hồ sơ tải</string>
+    <string name="phase_energy">Năng lượng theo pha</string>
+    <string name="phase_energy_kwh">Năng lượng theo pha (kWh)</string>
+    <string name="phase_R">Pha R</string>
+    <string name="phase_S">Pha S</string>
+    <string name="phase_T">Pha T</string>
+    <string name="holiday">Ngày nghỉ</string>
+    <string name="holiday_tariff">Giá ngày nghỉ</string>
+    <string name="phase_status">Trạng thái pha</string>
+    <string name="off">Tắt</string>
+    <string name="on">Bật</string>
+    <string name="all_cover_openings">Mở tất cả nắp</string>
+    <string name="active_energy_diff">Năng lượng chủ động nhập khẩu (Chênh lệch)</string>
+    <string name="active_energy_export_diff">Năng lượng chủ động xuất khẩu (Chênh lệch)</string>
+    <string name="current_cover_openings">Số lần mở nắp hiện tại</string>
+    <string name="opening_date">Ngày mở nắp</string>
+    <string name="tariff_changes">Thay đổi giá</string>
+    <string name="change_date">Ngày thay đổi</string>
+    <string name="default_baudrate_is_the_maximum_speed_of_meter">Giá trị mặc định là tốc độ cao nhất mà đồng hồ điện có thể truyền thông.</string>
+    <string name="total_downtime">Tổng thời gian gián đoạn</string>
+    <string name="METER_INFORMATION">Thông tin đồng hồ đo</string>
+    <string name="V_C_F">Điện áp Dòng tần số</string>
+    <string name="current_s">Dòng điện pha S</string>
+    <string name="current_t">Dòng điện pha T</string>
+    <string name="voltage_s">Điện áp pha S</string>
+    <string name="voltage_t">Điện áp pha T</string>
+    <string name="read_values">Đọc giá trị</string>
+    <string name="optical_read">Đọc đồng hồ đo</string>
+    <string name="saved_readings">Các lần đọc đã lưu</string>
+    <string name="application_information">Thông tin ứng dụng</string>
+    <string name="export_all_to_excel">Xuất toàn bộ (Excel)</string>
+    <string name="truncate_all_db">Xóa tất cả</string>
+    <string name="are_you_sure_to_delete_all">Tất cả các lần đọc đã lưu sẽ bị xóa. Bạn có chắc không?</string>
+    <string name="yes">Có</string>
+    <string name="delete_success">Tất cả các lần đọc đã lưu đã bị xóa</string>
+    <string name="delete_failed">Lỗi ứng dụng. Không thể xóa các bản ghi</string>
+    <string name="exporting_all_to_excel">Đang xuất toàn bộ bản ghi thành file excel</string>
+    <string name="exporting_single_to_excel">Đang xuất dữ liệu thành file excel..</string>
+    <string name="capacitive_energy_obis_previous_month">Năng lượng điện dung (8.8.01) tháng trước</string>
+    <string name="inductive_energy_obis_previous_month">Năng lượng điện từ (5.8.01) tháng trước</string>
+    <string name="active_energy_t1_obis_previous_month">Năng lượng chủ động T1 (1.8.11) tháng trước</string>
+    <string name="active_energy_t2_obis_previous_month">Năng lượng chủ động T2 (1.8.21) tháng trước</string>
+    <string name="active_energy_t3_obis_previous_month">Năng lượng chủ động T3 (1.8.31) tháng trước</string>
+    <string name="active_energy_t4_obis_previous_month">Năng lượng chủ động T4 (1.8.41) tháng trước</string>
+    <string name="demand_previous_month">Nhu cầu tối đa (1.6.0*1) tháng trước</string>
+    <string name="trying_to_connect_to_bt_reader">Đang kết nối đến thiết bị đọc bluetooth</string>
+    <string name="connection_to_bt_reader_failed">Không thể kết nối đến thiết bị đọc bluetooth</string>
+    <string name="connection_to_bt_reader_succeeded">Kết nối đến thiết bị đọc bluetooth thành công</string>
+    <string name="connection_to_bt_reader_lost">Đã mất kết nối đến thiết bị đọc bluetooth</string>
+    <string name="bluetooth_optic_reader">Đồng hồ đọc Bluetooth</string>
+    <string name="please_be_sure_bt_is_on_and_permitted">Vui lòng đảm bảo Bluetooth có sẵn trên thiết bị và được phép sử dụng cho ứng dụng</string>
+    <string name="meter_software_update_test">Cập nhật firmware đồng hồ đo</string>
+    <string name="meter_software_update_error">Cập nhật firmware đồng hồ đo thất bại</string>
+    <string name="update">Cập nhật</string>
+    <string name="new_type_lcd">Màn hình LCD mới</string>
+    <string name="old_type_lcd">Màn hình LCD cũ</string>
+    <string name="meter_software_update_initializing">Đang khởi tạo</string>
+    <string name="meter_software_update_started">Bắt đầu cập nhật</string>
+    <string name="meter_software_update_completed">Cập nhật hoàn thành</string>
+    <string name="success">Thành công</string>
+    <string name="clear_penalty_success">Xóa phạt thành công</string>
+    <string name="clear_penalty_failed">Không thể xóa phạt</string>
+    <string name="set_penalty_success">Đặt phạt thành công</string>
+    <string name="set_penalty_failed">Không thể đặt phạt</string>
+    <string name="set_penalty">Đặt phạt</string>
+    <string name="read_consumption">Đọc tiêu thụ</string>
+    <string name="go_back">Quay lại</string>
+    <string name="title_electric_optic">Điện quang</string>
+    <string name="reading_started">Bắt đầu đọc</string>
+    <string name="trying_connect_to_bt_reader">Đang kết nối đến thiết bị bluetooth.</string>
+    <string name="success_bt">Kết nối thành công đến thiết bị bluetooth.</string>
+    <string name="error_bt_read">Có lỗi khi cố gắng đọc dữ liệu từ thiết bị quang.</string>
+    <string name="no_data_received">Không nhận được dữ liệu từ đồng hồ đo</string>
+    <string name="sendedWorkOrder">Lệnh công việc đã được gửi đến modem wifi thành công:</string>
+    <string name="worOrderSend">Lệnh công việc đã được gửi đến modem wifi</string>
+    <string name="PleaseConnectBYLNModem">Vui lòng kết nối với BAYLAN WIFI Modem</string>
+    <string name="expired_licence">Giấy phép của bạn đã hết hạn</string>
+    <string name="str_same_work_order_type">Bạn không thể gửi cùng một loại lệnh công việc liên tiếp!</string>
+    <string name="str_work_order_sent">Lệnh công việc đã được gửi</string>
+    <string name="valve_open">Van mở</string>
+    <string name="valve_closed">Van đóng</string>
+    <string name="str_saved_adress">Tệp XLS đã được lưu trong bộ nhớ cục bộ của điện thoại của bạn</string>
+    <string name="str_new_meters">Đồng hồ đo mới</string>
+    <string name="str_number_of_broadcast">Số lượng phát sóng bắt được: </string>
+    <string name="old_meters_shown">Các đồng hồ cũ đã được liệt kê</string>
+    <string name="str_get_warning_meter">Chỉ hiển thị các đồng hồ đo có cảnh báo.</string>
+    <string name="str_select_range">Chọn phạm vi</string>
+    <string name="endRange">Phạm vi kết thúc</string>
+    <string name="startRange">Phạm vi bắt đầu</string>
+    <string name="str_valid_range">Vui lòng nhập một phạm vi hợp lệ</string>
+    <string name="str_meter_count">Số lượng đồng hồ đo:</string>
+    <string name="totalBroadcast">Tổng số sóng phát:</string>
+    <string name="ImportGroupDataFromServer">Nhập dữ liệu nhóm từ máy chủ</string>
+    <string name="GroupList">Danh sách nhóm</string>
+    <string name="MissingMeters">Mã sản phẩm của các đồng hồ chưa được đọc:</string>
+    <string name="MissingMetersCount">Số lượng đồng hồ chưa được đọc:</string>
+    <string name="send_read">Gửi đọc</string>
+    <string name="str_readed">Các đồng hồ đã đọc</string>
+    <string name="str_unreaded">Các đồng hồ chưa đọc</string>
+    <string name="str_indexed">Đã tạo chỉ mục</string>
+    <string name="str_billed">Đã thanh toán</string>
+    <string name="str_writed">Đã viết</string>
+    <string name="str_all">Tất cả</string>
+    <string name="str_filter">Bộ lọc</string>
+    <string name="str_complete_meter_readings">"Vui lòng hoàn tất việc đọc số trên đồng hồ đo trước. "</string>
+    <string name="str_reading_info_sended">"Thông tin đọc số đã được gửi trước đó. Chỉ số không thể được gửi lại. "</string>
+    <string name="str_internet_connection">Kiểm tra kết nối Internet của bạn.</string>
+    <string name="str_total_meters">Tổng số đồng hồ đo:</string>
+    <string name="str_wrong_org_or_group">Chọn tổ chức hoặc nhóm sai.</string>
+    <string name="str_count_of_meter"> Đồng hồ đo sẽ bị xóa</string>
+    <string name="str_reading_type">Loại đọc số</string>
+    <string name="str_last_index">Chỉ số cuối cùng</string>
+    <string name="subscriber">Người sử dụng</string>
+    <string name="str_first_index">Chỉ số đầu tiên</string>
+    <string name="readed_index">Chỉ số đã đọc</string>
+    <string name="str_invoicement">Hóa đơn</string>
+    <string name="str_no_billed_data">Không tìm thấy bản ghi để lập hóa đơn</string>
+    <string name="str_no_connected_printer">Không có máy in nào được kết nối</string>
+    <string name="str_sending_idnexes">Các chỉ số đã được gửi</string>
+    <string name="str_being_filled">Đang lập hóa đơn</string>
+    <string name="str_writing">Đang viết</string>
+    <string name="str_write">Viết</string>
+    <string name="str_door_number">Số cửa</string>
+    <string name="str_apartment">Căn hộ</string>
+    <string name="str_district">Quận</string>
+    <string name="str_incorrect_location">Thông tin vị trí đồng hồ đo không chính xác.</string>
+    <string name="str_stop">Dừng</string>
+    <string name="no_data_to_be_sent">Không tìm thấy dữ liệu có chỉ mục</string>
+    <string name="read_counter_indexes_will_be_sent">các chỉ số đồng hồ đo đã đọc sẽ được gửi đi.</string>
+    <string name="please_activate_bluetooth_perm">Vui lòng kiểm tra quyền sử dụng Bluetooth của bạn.</string>
+    <string name="export_to_pdf">Xuất ra file PDF</string>
+    <string name="vertical_mount_wall">Lắp đặt dọc (Tường)</string>
+    <string name="omega_shaped">Dạng hình chữ Omega</string>
+    <string name="parallel_installation">Lắp đặt song song</string>
+    <string name="is_meter_parallel_to_ground">Đồng hồ đo có song song với mặt đất không</string>
+    <string name="plumbing_rotten">Ống nước hỏng</string>
+    <string name="installed_ninty_degress">Ống nước có được lắp đặt vuông góc 90 độ không?</string>
+    <string name="export_to_word">Xuất ra file Word</string>
+    <string name="str_on_your_list">0 Đồng hồ đo, mà hoạt động chưa được hoàn tất trong danh sách của bạn, sẽ được đặt lại.</string>
+    <string name="login_first_export_data">Để xuất dữ liệu, bạn phải đăng nhập trước</string>
+    <string name="login_first_import_data">Để nhập dữ liệu, bạn phải đăng nhập trước</string>
+    <string name="check_internet_connection">Kiểm tra kết nối Internet của bạn</string>
+    <string name="or_disconnect_wifi_modem">hoặc ngắt kết nối modem wifi</string>
+    <string name="Map">Bản đồ</string>
+    <string name="Neighborhood">Khu vực</string>
+    <string name="loading">Đang tải danh sách </string>
+    <string name="WaitingSetLocation">Đang chờ thiết lập vị trí</string>
+    <string name="succesfuly_connect_wifi_modem">Kết nối modem wifi thành công</string>
+    <string name="trying_connect_to_wifi_modem">Đang kết nối modem wifi.</string>
+    <string name="wifi_modem_not_found">Không tìm thấy modem wifi.</string>
+    <string name="wifi_modem_connection_fail">Kết nối modem wifi thất bại.</string>
+    <string name="str_swipe_rigt_or_left">Vuốt sang phải hoặc trái để gửi lệnh công việc</string>
+    <string name="str_filter_description">(Bạn nên chọn các bộ lọc bạn muốn thêm hoặc loại bỏ ở dưới và sau đó nhấn nút áp dụng.)</string>
+    <string name="product_range">Phạm vi sản phẩm</string>
+    <string name="product_group">Nhóm sản phẩm</string>
+    <string name="last_connection_date">Ngày kết nối cuối cùng</string>
+    <!--    elektric opot
+
+
+ngs-->
