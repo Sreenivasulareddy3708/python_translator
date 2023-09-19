@@ -73,19 +73,19 @@ def merge(tags , sentence):
     else:
         return ""
 
+def translate(translated_sentence, target_language):
+    if translated_sentence and translated_sentence != '<strring name=':  # Checking if the string is not empty and not equal to '<strring name='
+        translator = Translator(from_lang='en', to_lang=target_language)
+        return translator.translate(translated_sentence)
+    return ""
 
-def translate(translatedsentence, targetLanguage):
-    # translate api
-    if translatedsentence != None and translatedsentence != '' and translatedsentence != '<strring name=': # strring name is debugging
-        translator = Translator(from_lang='en', to_lang=targetLanguage)
-        translated_text = translator.translate(translatedsentence)
-        return translated_text
-    # google translate api
-#        translator = Translator()
-#        translated_text = translator.translate(translatedsentence, dest=targetLanguage)
-#        return translated_text.text
-    else:
-        return ""
+# Uncomment below if you want to use Google Translate's API instead
+# from googletrans import Translator
+# def translate(translated_sentence, target_language):
+#     if translated_sentence and translated_sentence != '<strring name=':
+#         translator = Translator()
+#         return translator.translate(translated_sentence, dest=target_language).text
+#     return ""
 
 
 
